@@ -1,0 +1,8 @@
+# felipemoller-936736
+Author: @felipemoller
+Original post: https://x.com/felipemoller/status/2103846311149936736
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/felipemoller-936736
+
+Use apenas: JavaScript, Playwright e FFmpeg. Faça um vídeo moderno, elegante e impactante para meu produto (https://lp.meuorbe.com.br). Quero que simule os gastos em estabelecimentos do dia a dia, como mercado, posto de gasolina e restaurante. 
+
+Faça no formato 9:16.

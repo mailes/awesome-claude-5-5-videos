@@ -1,0 +1,6 @@
+# rehan-shei-839416
+Author: @rehan_shei
+Original post: https://x.com/rehan_shei/status/2103755997533839416
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/rehan-shei-839416
+
+I turned this into a full game with unity cli + opus 5.5, also opus did this full demo video, it played the game with multiple characters and spliced together the best bits, holy shit we're in the AGI era. Play it on your browser here: https://rehan-remade.github.io/hollow-crown/

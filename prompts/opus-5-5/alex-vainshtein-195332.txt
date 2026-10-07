@@ -1,0 +1,12 @@
+# alex-vainshtein-195332
+Author: @Alex_Vainshtein
+Original post: https://x.com/Alex_Vainshtein/status/2104197450307195332
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/alex-vainshtein-195332
+
+Can one developer + 3 AI agents build a GTA-style game?
+
+I’m trying.
+
+FIXER is a 1990s city game I’m building with Astra, Opus 5.5 and Fable.
+
+This is the current playable build.

@@ -1,0 +1,8 @@
+# lepadev-475414
+Author: @lepadev
+Original post: https://x.com/lepadev/status/2103101681806475414
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/lepadev-475414
+
+make a modern slick and punchy video for a modern startup that works on inference
+
+no video gen model, no additional libraries.

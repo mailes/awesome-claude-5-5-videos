@@ -1,0 +1,8 @@
+# 曼哈顿下城建筑史交互绘图
+Author: @nroze22
+Original post: https://x.com/nroze22/status/2106183281293381661
+Prompt & live remake: https://workskill.tools/ai-videos/fable-5-5/nroze22-381661
+
+I asked Fable 5.5 for something cool and accurate in an architectural drawing style.
+
+One prompt later: every building standing in Lower Manhattan today, drawn in the year it went up. Real footprints, real heights, true scale. Tap any tower for its story.

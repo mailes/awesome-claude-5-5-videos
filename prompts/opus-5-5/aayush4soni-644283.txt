@@ -1,0 +1,16 @@
+# aayush4soni-644283
+Author: @aayush4soni
+Original post: https://x.com/aayush4soni/status/2104181266459644283
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/aayush4soni-644283
+
+My family is planning to build a house, and all we had was the floor plan. I wanted to see how it would really look once it's built: which colors, layout and design would suit it best.
+
+So I gave the plan to Claude Opus 5.5 and asked it to create a 3D view of the house.
+
+It's one of the most useful things I've created recently. We can now walk through the house before a single brick is laid, and when we want to try a different color or layout, I just ask for the change.
+
+In the video: the hall, room, and the terrace at dusk, all at eye height.
+
+How it worked:
+
+• I gave it the 5-page floor-plan…

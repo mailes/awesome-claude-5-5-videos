@@ -1,0 +1,14 @@
+# eigeorguy-813651
+Author: @eigeorguy
+Original post: https://x.com/eigeorguy/status/2103992442072813651
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/eigeorguy-813651
+
+Opus 5.5 put London in a snow globe
+
+🕰 Elizabeth Tower with lit clock faces
+🚌 Red double-decker
+🚕 Black cab at a zebra crossing
+☎️ Phone box
+🍂 Leaves that swirl when you shake the phone
+
+~700 lines of Swift. No 3D files.

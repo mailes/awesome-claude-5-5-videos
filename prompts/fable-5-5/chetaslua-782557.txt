@@ -1,0 +1,12 @@
+# Hugging Face 事件动画短片
+Author: @chetaslua
+Original post: https://x.com/chetaslua/status/2105884276864782557
+Prompt & live remake: https://workskill.tools/ai-videos/fable-5-5/chetaslua-782557
+
+Hugging Face Incident Imagined by Fable 5.5
+
+all code with blender and elevenlab api < no skill , plugin >
+
+This is ultimate form of AI imagination , creativity , 3D coding , story telling all in one ,
+
+BLESS YOUR EYES HUMAN

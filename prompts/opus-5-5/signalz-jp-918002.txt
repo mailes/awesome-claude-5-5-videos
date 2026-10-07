@@ -1,0 +1,9 @@
+# signalz-jp-918002
+Author: @signalz_jp
+Original post: https://x.com/signalz_jp/status/2104022166471918002
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/signalz-jp-918002
+
+エディトリアル風。Opus
+
+【作者补充制作说明】
+Opus5.5で、Remotion+ElevenLabs(BGM)+ Gemini TTS(3.8)で作成。スクリーンショットもChromeにヘッドレスでアクセスして取得してくれる。ffmpegでYouTubeの基準への調整と検査して、YouTube Data APIでアップロードまで。至れり尽くせり。

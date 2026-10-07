@@ -1,0 +1,6 @@
+# 纯 JS 写的 15 秒可玩动画
+Author: @Scrappy__4
+Original post: https://x.com/Scrappy__4/status/2105866966988661167
+Prompt & live remake: https://workskill.tools/ai-videos/fable-5-5/scrappy-4-661167
+
+Another banger from Fable 5.5, 'Create a cool 15s playable animation with pure js'. Anthropic is cooking so hard, at this rate Openai has no chance if they don't step up soon.

@@ -1,0 +1,10 @@
+# stephanferraro-224281
+Author: @StephanFerraro
+Original post: https://x.com/StephanFerraro/status/2103020274107224281
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/stephanferraro-224281
+
+Claude Opus 5.5 on our AI coding benchmark: build a fully autonomous 3D water simulation from an empty repo - procedural mountains, rain, streams, lakes. TypeScript + Three.js, no physics engine.
+
+One prompt, zero corrections, ~21 min. 23/23 tests green.
+
+https://github.com/AiondaDotCom/ai-sim-benchmark

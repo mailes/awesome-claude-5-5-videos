@@ -1,0 +1,20 @@
+# ik-builds-585923
+Author: @ik_builds
+Original post: https://x.com/ik_builds/status/2103890476885585923
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/ik-builds-585923
+
+I WAS QUOTED $3000 FOR THIS!!!
+
+So I asked Opus 5.5 (medium) to create a launch video using Motion Graphics for us.
+
+here's the prompt that one-shots it:
+
+"Create a 15s motion-graphics film explaining {{PRODUCT}}. HyperFrames + GSAP, no voiceover, no footage.
+Style: paper-light canvas, marker notes that draw on, real physics, huge kinetic type,
+hard light/dark switches, a new idea every 1.5–2 s, a sound on every hit.
+
+COPY: read {{POSITIONING_DOCS}} first. {{ONE_LINER}} For {{AUDIENCE}}. {{WHAT_IT_DOES}}
+Name what the product learns, never the abstraction.
+
+RULES
+- No chrome (scrubber, timecod…

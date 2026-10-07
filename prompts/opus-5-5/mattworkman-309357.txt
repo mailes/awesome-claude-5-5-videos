@@ -1,0 +1,11 @@
+# mattworkman-309357
+Author: @mattworkman
+Original post: https://x.com/mattworkman/status/2104662818742309357
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/mattworkman-309357
+
+messing around with Opus 5.5
+- HyperFrames staging, edit
+- JavaScript, ThreeJS,
+- fal GPT Image 2.5 and Seedance 2.5
+
+very blah text design, I need a fal design skill/guideline ideally

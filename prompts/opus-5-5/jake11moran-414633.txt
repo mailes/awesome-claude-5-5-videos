@@ -1,0 +1,10 @@
+# jake11moran-414633
+Author: @jake11moran
+Original post: https://x.com/jake11moran/status/2103237884564414633
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/jake11moran-414633
+
+Using HyperFrames, make a hype teaser for the product in this post - [link]. Landscape, around 27 seconds. Match the product UI, wallpaper and copy from the post's video 
+
+Motion should feel slow and polished - one continuous camera over one Mac desktop, no hard cuts. Camera pushes, pulls and pans run like 1.5 to 3 seconds on gentle ease-in-out curves, nothing snappy - aim for half the speed you'd default to. Add motion blur on fast moves and a light film grain finish. Use an oversized macOS cursor. No audio. All on-screen copy lowercase like the post.
+
+1. Open on a big centered line - "in the…

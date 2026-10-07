@@ -1,0 +1,8 @@
+# 人类进步与未来三十年
+Author: @imjustnewatai
+Original post: https://x.com/imjustnewatai/status/2106081142143168580
+Prompt & live remake: https://workskill.tools/ai-videos/fable-5-5/imjustnewatai-168580
+
+I gave Claude fable 5.5 one prompt: a video of all human progress, then 30 years into the future.
+
+It came back with a 3-minute animated film and an original score. No footage, no stock music.

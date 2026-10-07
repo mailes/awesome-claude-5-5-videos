@@ -1,0 +1,24 @@
+# dreyk0o0-165270
+Author: @dreyk0o0
+Original post: https://x.com/dreyk0o0/status/2103822946800165270
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/dreyk0o0-165270
+
+Claude Opus 5.5 just built Minecraft.
+
+In the browser. From a single prompt.
+
+Noah Wachnick asked it to recreate Minecraft with advanced shaders, "as realistic as possible."
+
+1 hour 37 minutes at max effort:
+
+> block placement
+> terrain
+> realistic lighting and shaders
+
+Here's a prompt to try it yourself. Bookmark this for later 
+
+"Build a Minecraft-style voxel game in a single HTML file that runs in the browser.
+- First-person controls: WASD, mouse look, jump
+- Procedural terrain with hills, water and trees
+- Place and break blocks with the mouse, 5 block types
+- Advanced shaders: moving sun,…

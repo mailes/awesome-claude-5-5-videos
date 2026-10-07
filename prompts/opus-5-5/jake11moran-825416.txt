@@ -1,0 +1,10 @@
+# jake11moran-825416
+Author: @jake11moran
+Original post: https://x.com/jake11moran/status/2103247490237825416
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/jake11moran-825416
+
+/session-story
+
+created a skill for opus 5.5 using @HyperFrames_ - claude reads your local claude code history, finds what an average session with you looks like and animates it start to finish with your messages
+
+try here: https://github.com/heygen-com/hyperframes-community-skills/tree/master/skills/session-story

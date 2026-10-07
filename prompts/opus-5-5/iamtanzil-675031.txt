@@ -1,0 +1,13 @@
+# iamtanzil-675031
+Author: @iamtanzil_
+Original post: https://x.com/iamtanzil_/status/2103820321673675031
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/iamtanzil-675031
+
+# Auren Header
+
+A cinematic, scroll-scrubbed 3D hero header for the luxury/fantasy brand "AUREN" where a full-screen background video plays frame-by-frame as the user scrolls through a 500vh section, with sequential timed overlays (title, description, feature cards, final title) revealing themselves at specific video timestamps.
+
+## Tech stack
+- React 18+ with "use client" directive (Next.js App Router compatible)
+- framer-motion (all overlay entrance/exit animations, AnimatePresence, staggered per-character reveals)
+- gsap + gsap/ScrollTrigger (scroll-driven scrubbing that maps scroll progres…

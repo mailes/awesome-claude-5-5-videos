@@ -1,0 +1,8 @@
+# 大语言模型是怎么做出来的
+Author: @imjustnewatai
+Original post: https://x.com/imjustnewatai/status/2106546810793730419
+Prompt & live remake: https://workskill.tools/ai-videos/fable-5-5/imjustnewatai-730419
+
+I asked fable 5.5 how a large language model is made
+
+Here’s the result:

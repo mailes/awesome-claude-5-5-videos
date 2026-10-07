@@ -1,0 +1,7 @@
+# vectorcrossprod-436573
+Author: @VectorCrossProd
+Original post: https://x.com/VectorCrossProd/status/2104093497561436573
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/vectorcrossprod-436573
+
+Claude Opus 5.5 continues to amaze me. Claude Opus 5.5 created a 3D printable enclosure for an existing PCB.  Then it created this promo video for it. 
+The PCB, the printable STLs and this animation are 100% just from prompting in Claude Code.

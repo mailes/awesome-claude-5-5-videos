@@ -1,0 +1,9 @@
+# washow-cfo-175311
+Author: @washow_cfo
+Original post: https://x.com/washow_cfo/status/2104595346882175311
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/washow-cfo-175311
+
+claude codeで動画作成が流行ってるけど、AI臭さがあるからどっかでみたことあるようなスタイリッシュな動画を作ってみた
+CMとしては使えるかな？
+
+使ったもの：Claude Code（Opus 5.5）／Gemini TTS／HyperFrames

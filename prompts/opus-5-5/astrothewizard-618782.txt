@@ -1,0 +1,10 @@
+# astrothewizard-618782
+Author: @AstroTheWizard
+Original post: https://x.com/AstroTheWizard/status/2103629247751618782
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/astrothewizard-618782
+
+I want you to make a 60-second, fully animated explainer video, end to end, completely on your own. I'm stepping away from my computer, so work autonomously until it's done. Don't stop to ask me questions; make the calls yourself and tell me what you decided at the end.
+
+Topic: the journey of photons 
+
+Style: whimsical, charming, storybook. Give the photon a personality. It should feel like a professional motion-design studio made it, not "AI video". The whole thing should be a pure JavaScript animation, rendered from code frame by frame. Don't use AI video generators for the visuals. I've see…

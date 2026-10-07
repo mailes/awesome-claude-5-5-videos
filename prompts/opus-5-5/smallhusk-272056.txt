@@ -1,0 +1,6 @@
+# smallhusk-272056
+Author: @smallhusk
+Original post: https://x.com/smallhusk/status/2104046074600272056
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/smallhusk-272056
+
+A procedurally-generated game in infinite stranded space colonies with realistic physics. All creative decisions made by @claudeai Opus 5.5, all done in just one week's usage window at Pro-level. Claude chose to add pettable cats in the combat-free mode. https://claude.ai/artifact/1o1DWNgoanSy2ZCRTCtjpq

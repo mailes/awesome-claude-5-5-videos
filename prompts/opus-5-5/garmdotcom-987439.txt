@@ -1,0 +1,16 @@
+# garmdotcom-987439
+Author: @garmdotcom
+Original post: https://x.com/garmdotcom/status/2103516101518987439
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/garmdotcom-987439
+
+Tried to jump on the explainer video "made entirely with Opus 5.5" bandwagon.
+
+Accidentally didn't include an OpenRouter API key.
+
+Opus decided to just do everything itself. 
+
+The result is insane
+
+$0 additional cost.
+
+Prompt in next post

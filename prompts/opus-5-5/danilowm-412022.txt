@@ -1,0 +1,8 @@
+# danilowm-412022
+Author: @danilowm
+Original post: https://x.com/danilowm/status/2103661844661412022
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/danilowm-412022
+
+Cursor usando o Opus 5.5 
+instale a skill hyperframes via terminal depois rodei
+"/hyperframes make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.  use todo o contexto do projeto"

@@ -1,0 +1,20 @@
+# thayto-dev-739735
+Author: @thayto_dev
+Original post: https://x.com/thayto_dev/status/2104200591278739735
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/thayto-dev-739735
+
+TUTORIAL do @gabrielbuzziv 
+
+> o mais insano ta, é que isso gastou tipo 5% do limite de 5 horas
+
+1. instale a skill hyperframes
+
+2. prompt: 
+
+"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out."
+
+3. no prompt referencia a pasta do seu projeto
+
+4. espera a mágica acontecer
+
+modelo usado: opus 5.5 (effort: max)

@@ -1,0 +1,10 @@
+# curieuxexplorer-272483
+Author: @CurieuxExplorer
+Original post: https://x.com/CurieuxExplorer/status/2103038625483272483
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/curieuxexplorer-272483
+
+I asked Opus 5.5 to generate a realistic 3D model of the Taj Mahal
+
+Dome, minarets, marble inlay, even the foundations.
+
+One prompt ⤵️ One HTML file.

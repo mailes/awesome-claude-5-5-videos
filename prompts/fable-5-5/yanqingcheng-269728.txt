@@ -1,0 +1,8 @@
+# Seikilos 墓志铭 HTML 音乐动画
+Author: @YanqingCheng
+Original post: https://x.com/YanqingCheng/status/2106158746938269728
+Prompt & live remake: https://workskill.tools/ai-videos/fable-5-5/yanqingcheng-269728
+
+fable 5.5 made this for us. I asked it to make an animation of something about humanity that it finds inspiring or delightful. claude chose the seikilos epitaph
+
+all art and music created directly in javascript, in one 200kb html file.

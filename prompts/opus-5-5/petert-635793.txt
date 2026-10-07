@@ -1,0 +1,6 @@
+# petert-635793
+Author: @_petert
+Original post: https://x.com/_petert/status/2103885113528635793
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/petert-635793
+
+Claude Opus 5.5 + HyperFrames + Gemini Flash 3.8 + Three jsで架空の飲料の広告動画作ってみたけど、なかなか良い

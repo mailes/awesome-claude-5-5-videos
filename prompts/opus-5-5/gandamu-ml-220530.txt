@@ -1,0 +1,6 @@
+# gandamu-ml-220530
+Author: @gandamu_ml
+Original post: https://x.com/gandamu_ml/status/2102919394775220530
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/gandamu-ml-220530
+
+I would like you to create a kickass, impressive 1990s style demoscene demo using this S3M track as the music. Prior to getting to work, please see how to best play and analyze the S3M track. This will be important since synchronization of effects and appropriateness of scenes to the musical vibe (and this song does have a variety of sections with different attitude) is essential to a great demoscene demo. Also prior to getting started, please research what kinds of effects, physics, etc. would be good to use in combination. Please use C/C++ -- with appropriate demoscene/embedded/console gamed…

@@ -1,0 +1,12 @@
+# wani-shola-459278
+Author: @wani_shola
+Original post: https://x.com/wani_shola/status/2103769906638459278
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/wani-shola-459278
+
+Make a showreel-style motion graphics video for my portfolio website, 
+http://
+sholajegede.com, using Remotion. It should show what I do as a developer relations engineer, like a showreel for my résumé.
+
+- Use as much of the real website as possible: capture the pages and sections in a browser (home, Ask, package pages, Hire, mobile view, dark mode) and animate them inside browser and phone frames.
+- Show the site's chat answering real questions about my work, with the questions and answers large and bold. Use only facts and numbers that are on the site.
+- Follow premium brand rules: three col…

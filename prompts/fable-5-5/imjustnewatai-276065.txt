@@ -1,0 +1,6 @@
+# Altman 与 Amodei 之争讲解
+Author: @imjustnewatai
+Original post: https://x.com/imjustnewatai/status/2106204392588276065
+Prompt & live remake: https://workskill.tools/ai-videos/fable-5-5/imjustnewatai-276065
+
+I asked Claude fable 5.5 to make an explainer on the Altman–Amodei feud.

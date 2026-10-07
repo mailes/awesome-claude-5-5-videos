@@ -1,0 +1,9 @@
+# kum1ta-740521
+Author: @kum1ta
+Original post: https://x.com/kum1ta/status/2103998389058740521
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/kum1ta-740521
+
+I gave my Claude Code sessions an office.
+
+Workspace turns each session into a desk in a 3D office: see who's working, who's done and who needs you, jump into any terminal, and let them work together.
+Open source, built entirely with @claudeai Opus 5.5.

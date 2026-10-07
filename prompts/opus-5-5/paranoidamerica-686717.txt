@@ -1,0 +1,8 @@
+# paranoidamerica-686717
+Author: @ParanoidAmerica
+Original post: https://x.com/ParanoidAmerica/status/2103570879619686717
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/paranoidamerica-686717
+
+create a music video for this entire song, check lyrics.txt to sync the visuals to. style should be a mix between monty-python/vox style "postcards in space" mixed with sketchy ballpoint pen style visuals. this needs to look professional. theme of the video is a creepy evil pizza parlor, camera starts outside and works through the inside, through a secret bookshelf door into a basement with untold horrors and pizza sauce all over the place. use whatever tools or methods you need to make this look professional. final export should be an .mp4 of the entire music video.
+
+claude/opus 5.5 detected…

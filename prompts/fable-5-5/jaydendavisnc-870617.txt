@@ -1,0 +1,10 @@
+# 用 Blender 做的 dots 角色动画
+Author: @JaydenDavisNC
+Original post: https://x.com/JaydenDavisNC/status/2107086714820870617
+Prompt & live remake: https://workskill.tools/ai-videos/fable-5-5/jaydendavisnc-870617
+
+Fable 5.5 made me a delightful animation in blender. 
+
+This model is quite something, no this is not promo video from OpenAI.
+
+All the music, models, animation, and rigging was done using Fable 5.5.

@@ -1,0 +1,11 @@
+# brainextends-606193
+Author: @brainextends
+Original post: https://x.com/brainextends/status/2103801834930606193
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/brainextends-606193
+
+Create a complete, polished Spotify-themed motion graphics video from the following brief. This prompt is self-contained: no reference video or supplied assets are required.
+
+x3Cdeliverables> An 18-second MP4 at 1920×1080 and true 60 fps, with music and subtle sound effects Complete editable source Build, render, inspect, and refine the animation before delivering it Do not stop at a storyboard, still images, or an implementation plan x3C/deliverables>
+x3Cart_direction>
+A premium music-product film presented inside a large, nearly black rounded rectangular stage
+The stage occupies roughly 80% of the…

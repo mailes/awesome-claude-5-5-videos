@@ -1,0 +1,12 @@
+# francoxavier33-341663
+Author: @francoxavier33
+Original post: https://x.com/francoxavier33/status/2103486218323341663
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/francoxavier33-341663
+
+this was 100% opus 5.5. 
+
+i have a dedicated "studio" repo with all my project's style guides, tokens, few skills, remotion, etc.
+
+this all started from "make a hype demo/launch video for @momwiseai"
+
+took maybe 4 revisions. music, sound fx, messaging, animations, everything was done with code.

@@ -1,0 +1,11 @@
+# zacxbt-944604
+Author: @zacxbt
+Original post: https://x.com/zacxbt/status/2103808699466944604
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/zacxbt-944604
+
+Create a single self-contained HTML file that renders an animated pixel art wizard casting a spell, using vanilla JavaScript and Canvas 2D. No external assets, libraries, or network requests.
+
+RENDERING
+- Draw everything to an offscreen canvas at a fixed logical resolution of 128x96, then blit to a fullscreen display canvas scaled by the largest integer factor that fits the window, centered, with imageSmoothingEnabled = false and CSS image-rendering: pixelated.
+- All drawing snaps to integer coordinates on the logical canvas. No sub-pixel positions, anti-aliasing, gradients, or shadowBlur.
+- F…

@@ -1,0 +1,6 @@
+# buildfastwithai-582551
+Author: @BuildFastWithAI
+Original post: https://x.com/BuildFastWithAI/status/2103152898708582551
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/buildfastwithai-582551
+
+Build a Douglas A-1H Skyraider in Three.js

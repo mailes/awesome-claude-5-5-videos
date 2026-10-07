@@ -1,0 +1,15 @@
+# wustep-884086
+Author: @wustep
+Original post: https://x.com/wustep/status/2104610435571884086
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/wustep-884086
+
+Last week, we launched column permissions!
+
+I’m not on Notion’s video team, but with the help of @claudeai, @bot, and @NotionHQ, I made a trailer over the weekend. (How I made it in 🧵)
+
+【作者补充制作说明】
+🎬 BEHIND THE SCENES:
+
+This was built using @Remotion (React/TypeScript only!), with @claude’s opus 5.5 [xhigh], orchestrated with @bot, and managed in a Notion doc as a working canvas.
+
+In total, this project took ~90 messages with my @bot over 2 days, which generated 33 video takes with Claude Code and cost ~$400 in Claude credits including all the other takes (API billing but should fit fine in t…

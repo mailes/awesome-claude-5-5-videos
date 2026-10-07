@@ -1,0 +1,6 @@
+# 山水画绘制与动画
+Author: @chetaslua
+Original post: https://x.com/chetaslua/status/2106833074302710023
+Prompt & live remake: https://workskill.tools/ai-videos/fable-5-5/chetaslua-710023
+
+Painting an drawing with code then animate it with Fable 5.5

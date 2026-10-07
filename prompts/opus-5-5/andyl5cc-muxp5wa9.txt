@@ -1,0 +1,6 @@
+# AI生成的OpenAI宣传动画
+Author: @AndyL5cc
+Original post: https://x.com/AndyL5cc/status/2107305869230883267
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/andyl5cc-muxp5wa9
+
+用代码做一条 40 秒 OpenAI 宣传动画：黑色亮面地板，六只毛毡小怪物接力推一个白毛线球，球边滚边放线，放下的线织成 OpenAI 的 logo；然后线膨胀成毛绒管、logo 立起来；熄灯，光顺着毛线跑，六种颜色合成白光；最后闪光灯合影。60 帧，配乐和音效也用代码生成。

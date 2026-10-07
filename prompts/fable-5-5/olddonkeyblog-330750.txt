@@ -1,0 +1,6 @@
+# 葡萄糖转化乙醇 SVG 动画
+Author: @olddonkeyblog
+Original post: https://x.com/olddonkeyblog/status/2106508425211330750
+Prompt & live remake: https://workskill.tools/ai-videos/fable-5-5/olddonkeyblog-330750
+
+Third prompt for Fable 5.5 Max: an animated SVG, embedded in HTML, of a glucose molecule going through glycolysis and then into ethanol.

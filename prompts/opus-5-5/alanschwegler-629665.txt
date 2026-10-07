@@ -1,0 +1,11 @@
+# alanschwegler-629665
+Author: @alanschwegler
+Original post: https://x.com/alanschwegler/status/2102634404774629665
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/alanschwegler-629665
+
+Armé este reel para mi web de gestión de eventos con Opus 5.5 
+
+Todo es código: React + TypeScript con Remotion y la música sintetizada en Python a 120 BPM, con cada corte sincronizado al beat. 
+Sin editor. Sin stock.
+
+Organizas eventos? Entra acá 👉 https://planningmanager.app

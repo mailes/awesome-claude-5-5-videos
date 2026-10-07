@@ -1,0 +1,10 @@
+# jetbrains-754812
+Author: @jetbrains
+Original post: https://x.com/jetbrains/status/2102459650125754812
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/jetbrains-754812
+
+This product video was generated entirely by Claude Opus 5.5.
+
+Our colleague @kristel_tech gave it @HeyGen’s HyperFrames skills and pointed it at https://kotlinlang.org – out came this Kotlin promo.
+
+Try it in JetBrains Air or Junie.

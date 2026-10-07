@@ -1,0 +1,6 @@
+# tomandrieu96707-875264
+Author: @TomAndrieu96707
+Original post: https://x.com/TomAndrieu96707/status/2103411144899875264
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/tomandrieu96707-875264
+
+Create a pure javascript animation. 30s-60s whimsical hand drawn collage style with appropriate audio that will explain the same story as our “about-us” page. Use assets from our repo when possible.

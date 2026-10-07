@@ -1,0 +1,12 @@
+# myonisto-923578
+Author: @myonisto
+Original post: https://x.com/myonisto/status/2103082459503923578
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/myonisto-923578
+
+Claude Opus 5.5 just one-shotted an entire 3D virtual studio in Blender.
+
+We used to sell studios like this on Envato. Built in After Effects + Element 3D, each one took our team months.
+
+This took one prompt.
+
+@claudeai @AnthropicAI @alexalbert__ @bcherny

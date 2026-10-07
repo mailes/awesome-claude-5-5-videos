@@ -1,0 +1,10 @@
+# konstantinsaifo-501736
+Author: @konstantinsaifo
+Original post: https://x.com/konstantinsaifo/status/2104094723887501736
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/konstantinsaifo-501736
+
+I asked Claude Opus 5.5 to explain how a rocket engine works by building an interactive Raptor 3 you can take apart in your browser.
+
+Cut it open, follow the oxygen and the methane through both turbopumps, then throttle it and watch the shock diamonds move.
+
+http://airsup.ai/rocket-engine

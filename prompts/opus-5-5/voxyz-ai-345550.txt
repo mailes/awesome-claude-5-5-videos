@@ -1,0 +1,16 @@
+# voxyz-ai-345550
+Author: @Voxyz_ai
+Original post: https://x.com/Voxyz_ai/status/2103117246860345550
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/voxyz-ai-345550
+
+I asked Opus 5.5 to explain gravitational lensing by building an interactive black hole lab
+
+One prompt for the first version, then a dynamic workflow to polish it for three rounds while I slept. This is what I woke up to: 5h 28m end to end, $90 at API prices
+
+https://blackhole.voxyz.ai
+
+Drag the black hole and the sky behind it bends into arcs, closing into a full ring when everything lines up
+
+Each round ran 3 agents. Two reviewers each picked 9 to 10 issues and ranked them P0, P1, P2. The third one fixed them.
+Round 1: 3D materials and lighting + UI and type
+Round 2: camera motion and inter…

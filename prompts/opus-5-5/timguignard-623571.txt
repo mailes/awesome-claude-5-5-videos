@@ -1,0 +1,9 @@
+# timguignard-623571
+Author: @TimGuignard
+Original post: https://x.com/TimGuignard/status/2104515756159623571
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/timguignard-623571
+
+Just tested Claude Opus 5.5 with Hyperframes.
+One prompt (also generated), the result is ok. Not crazy, but with a few more indications and a clear direction, it would probably get much nicer.
+
+The video below is actually a screen record.

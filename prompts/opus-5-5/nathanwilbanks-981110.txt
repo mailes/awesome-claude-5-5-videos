@@ -1,0 +1,16 @@
+# nathanwilbanks-981110
+Author: @NathanWilbanks_
+Original post: https://x.com/NathanWilbanks_/status/2103881538592981110
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/nathanwilbanks-981110
+
+I asked opus 5.5 in @agnt_gg for the most realistic fire it could build using ONLY javascript.
+
+It wrote a real 3D fluid simulation that runs on the GPU. The flame colors come from blackbody physics, the smoke is real volume, it runs at 96 fps in 1080p, and it critiqued its own renders about 40 times.
+
+Then it shot a 38 second film of it. The sound comes from the fire itself. 🔥
+
+Details:
+
+- Nothing faked. The fire is actual simulated gas that burns, heats up, rises, and swirls. It gives off soot that glows, and the soot that escapes cools into smoke. Every frame is computed on the GPU.
+
+- The…

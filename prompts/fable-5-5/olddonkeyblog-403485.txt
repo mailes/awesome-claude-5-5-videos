@@ -1,0 +1,6 @@
+# 16 艘星舰发射 SVG 动画
+Author: @olddonkeyblog
+Original post: https://x.com/olddonkeyblog/status/2106507742454403485
+Prompt & live remake: https://workskill.tools/ai-videos/fable-5-5/olddonkeyblog-403485
+
+Another prompt for Fable 5.5 Max: an animated SVG, embedded in HTML, of 16 Starships launching together, stage separation, then entering space.

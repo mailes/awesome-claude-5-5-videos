@@ -1,0 +1,6 @@
+# brenbuilds-386902
+Author: @BrenBuilds
+Original post: https://x.com/BrenBuilds/status/2104199715076386902
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/brenbuilds-386902
+
+@kimmonismus hours of rework on my threejs game with Opus 5.5 and limits didnt even move

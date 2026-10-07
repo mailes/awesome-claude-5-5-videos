@@ -1,0 +1,15 @@
+# helloshiva0801-438284
+Author: @helloshiva0801
+Original post: https://x.com/helloshiva0801/status/2103733875734438284
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/helloshiva0801-438284
+
+I'm a solo founder with no video editor, no designer and no After Effects.
+
+So I built http://redesignr.ai's launch video in React with Claude Opus 5.5 + @remotion.
+
+900 frames, 10 scenes, all code, paper style.
+
+Building in public, day 3. 
+
+#buildinpublic #Remotion #ClaudeAI #indiehackers #solofounder #SaaS #webdesign #motiondesign
+#AI #React #vibecoding

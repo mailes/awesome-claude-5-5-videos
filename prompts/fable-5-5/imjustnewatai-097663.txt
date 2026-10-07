@@ -1,0 +1,10 @@
+# 从夸克到可观测宇宙
+Author: @imjustnewatai
+Original post: https://x.com/imjustnewatai/status/2106190594775097663
+Prompt & live remake: https://workskill.tools/ai-videos/fable-5-5/imjustnewatai-097663
+
+I told Claude fable 5.5 to pick its own video idea, one that would make people say "I didn't know AI could do that."
+
+It made a single unbroken zoom from three quarks to the observable universe: 42 powers of ten in 94 seconds.
+
+No video model. The visuals and the music are all

@@ -1,0 +1,11 @@
+# theviableedge-869918
+Author: @TheViableEdge
+Original post: https://x.com/TheViableEdge/status/2104207707980869918
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/theviableedge-869918
+
+Getting in on the Opus 5.5 motion graphics fun, truly impressive outcome for a fun one-shot experiment. 
+
+It used remotion (I also have hyperframe installed), which I think i'll try next. 
+
+Prompt: 
+make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, and can be the hero asset for the course landing page.

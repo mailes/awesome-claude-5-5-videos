@@ -1,0 +1,10 @@
+# genelab-999-088672
+Author: @geneLab_999
+Original post: https://x.com/geneLab_999/status/2104163377560088672
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/genelab-999-088672
+
+話題の Opus 5.5 のモーショングラフィックス、原作プロンプトそのままで再現してみた。
+
+Claude Code + Remotion 公式プラグイン、effort は xhigh。
+プロンプト1発、途中の API 切断で continue を1回だけ。
+思考 約23分、レンダリング 約90秒。BGM もサンプルなしでコード生成。

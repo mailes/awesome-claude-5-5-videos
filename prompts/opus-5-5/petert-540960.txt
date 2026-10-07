@@ -1,0 +1,6 @@
+# petert-540960
+Author: @_petert
+Original post: https://x.com/_petert/status/2103885710734540960
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/petert-540960
+
+Claude Opus 5.5 + HyperFrames + Gemini Flash 3.8 + Three jsで、Meta VRの紹介動画作ったら変な感じになった

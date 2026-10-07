@@ -1,0 +1,6 @@
+# zeezomb-726206
+Author: @zeezomb
+Original post: https://x.com/zeezomb/status/2102906701552726206
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/zeezomb-726206
+
+Make an 80 second square animated film as a single HTML file, using WebGL2 and plain JavaScript, with no libraries and no image, font or audio files. It should look like a glass and gold leaf wall mosaic whose tiles were never glued down, so they can lift, flip, fly and click back into place. Figures are flocks of tiles, so a fish swims by its tiles swimming.

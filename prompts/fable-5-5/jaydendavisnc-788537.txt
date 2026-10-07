@@ -1,0 +1,8 @@
+# 海滨落日鹈鹕骑车 SVG
+Author: @JaydenDavisNC
+Original post: https://x.com/JaydenDavisNC/status/2106938093785788537
+Prompt & live remake: https://workskill.tools/ai-videos/fable-5-5/jaydendavisnc-788537
+
+Claude Fable 5.5 delivers some of the best SVG generation I have ever seen.
+
+The model from my testing is noticeably more token efficient than the current Opus 5.5. The model used significantly fewer tool calls and on average is finishing tasks surprisingly sooner.

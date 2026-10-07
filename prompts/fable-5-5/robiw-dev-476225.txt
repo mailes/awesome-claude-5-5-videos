@@ -1,0 +1,12 @@
+# Paracortex Terminal 更新宣传片
+Author: @RobIW_dev
+Original post: https://x.com/RobIW_dev/status/2105894547796476225
+Prompt & live remake: https://workskill.tools/ai-videos/fable-5-5/robiw-dev-476225
+
+Fable 5.5 asked it to render a small motion design inspired video for changenotes for some of the latest updates to my custom tooling
+
+the prompt:
+
+I'd like a motion design video to present on X for our update to paracortex terminal and pi 1.0
+
+25 seconds should do and I'm

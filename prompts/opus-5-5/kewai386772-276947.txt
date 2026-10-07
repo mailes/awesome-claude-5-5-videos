@@ -1,0 +1,8 @@
+# kewai386772-276947
+Author: @KeWai386772
+Original post: https://x.com/KeWai386772/status/2103821018947276947
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/kewai386772-276947
+
+最近用 GPT 6 Astra、Opus 5.5 做了一堆 web 3d 的项目，游戏、室内、Fx、文旅、整活的都有尝试hh
+
+我把这些项目的全部工作流与prompt都整合到了线上的workplace里，之后也会持续更新，感兴趣的朋友可以收藏一波hh

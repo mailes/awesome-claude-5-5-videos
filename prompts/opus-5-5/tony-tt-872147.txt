@@ -1,0 +1,10 @@
+# tony-tt-872147
+Author: @_Tony_TT_
+Original post: https://x.com/_Tony_TT_/status/2103227891009872147
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/tony-tt-872147
+
+Opus 5.5 on the Trading House
+
+❯ Using React/TypeScript (Remotion), every image drawn in SVG and Canvas, an open-source TTS voice, and a score synthesized in Python. No stock footage. No image generators.
+
+❯ Build a short 30-60s animation work about the Trading House

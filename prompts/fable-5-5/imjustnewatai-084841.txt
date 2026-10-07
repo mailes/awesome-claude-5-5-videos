@@ -1,0 +1,6 @@
+# 单文件 HTML 复刻 Dig Dug
+Author: @imjustnewatai
+Original post: https://x.com/imjustnewatai/status/2105831117677084841
+Prompt & live remake: https://workskill.tools/ai-videos/fable-5-5/imjustnewatai-084841
+
+Asked fable 5.5 to recreate Dig Dug "1:1" in a single HTML file. One prompt.

@@ -1,0 +1,6 @@
+# proanaliteg-458642
+Author: @proanaliteg
+Original post: https://x.com/proanaliteg/status/2103895246593458642
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/proanaliteg-458642
+
+Tried the Remotion skill in Claude Code (Opus 5.5 xhigh) for fun. Mind-blowing: it built this promo on the first try - I spent longer picking four accent sounds and the music. It rebuilt our desktop app's UI in React straight from the XAML and design tokens. Zero screenshots.

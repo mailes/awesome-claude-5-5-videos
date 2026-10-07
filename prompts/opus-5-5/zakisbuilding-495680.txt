@@ -1,0 +1,10 @@
+# zakisbuilding-495680
+Author: @zakisbuilding
+Original post: https://x.com/zakisbuilding/status/2104389736647495680
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/zakisbuilding-495680
+
+Opus 5.5 is on STEROIDS
+
+gave Claude Code one prompt and it made this 15 second motion design video of my app. 
+
+all React code with Remotion, I never opened After Effects

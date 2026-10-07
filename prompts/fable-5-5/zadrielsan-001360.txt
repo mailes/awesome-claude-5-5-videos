@@ -1,0 +1,10 @@
+# Bend2 三体物理模拟
+Author: @zAdrielsan
+Original post: https://x.com/zAdrielsan/status/2105822678519001360
+Prompt & live remake: https://workskill.tools/ai-videos/fable-5-5/zadrielsan-001360
+
+Asked Fable 5.5 for the three-body problem. One-shot.
+
+It gave back ~1000 lines of Bend2: symplectic physics on the CPU, every pixel computed on the GPU, 60 FPS on my M5.
+
+And 4 laws of the program formally proven. Not tested. Proven.

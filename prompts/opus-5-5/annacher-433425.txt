@@ -1,0 +1,10 @@
+# annacher-433425
+Author: @AnnaCher___
+Original post: https://x.com/AnnaCher___/status/2103571096549433425
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/annacher-433425
+
+Analyze http://sprites.ai and build a product promo from our own UI, not generic components.
+
+x3Cdirection>
+Dribbble-level UI motion. One shape, never cut: every state is the same element morphing its size, radius and color while its content swaps with a short blur. A cursor drives every change with real clicks and drags. Warm-gray canvas, black and white components, one accent (#FD9543), Geist. Springs everywhere, a tiny overshoot at most. The camera zooms so each state fills the frame. Last frame = first frame, so it loops.
+Banned: bouncy easing, particles, glows, gradients on UI chrome, misma…

@@ -1,0 +1,6 @@
+# hqmank-241156
+Author: @hqmank
+Original post: https://x.com/hqmank/status/2103831140033241156
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/hqmank-241156
+
+Make a dynamic 20-second motion graphics launch video for my open-source project jev-browser-skill ('Give a site. Write a goal. Jev clicks.'), like it's the hero video on its GitHub README. Go all out.

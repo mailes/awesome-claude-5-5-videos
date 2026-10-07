@@ -1,0 +1,6 @@
+# buildfastwithai-597035
+Author: @BuildFastWithAI
+Original post: https://x.com/BuildFastWithAI/status/2103483174957597035
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/buildfastwithai-597035
+
+Implement code to be able to navigate in a pagoda in 3D.

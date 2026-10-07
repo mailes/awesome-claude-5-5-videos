@@ -1,0 +1,6 @@
+# parkerrex-701462
+Author: @ParkerRex
+Original post: https://x.com/ParkerRex/status/2103206747846701462
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/parkerrex-701462
+
+explain a token bucket rate limiter, canvas only, no libraries, every frame a pure function of time so my renderer can screenshot it.

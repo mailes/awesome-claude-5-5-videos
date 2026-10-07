@@ -1,0 +1,16 @@
+# 0xwast3-222104
+Author: @0xWast3
+Original post: https://x.com/0xWast3/status/2103513328077222104
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/0xwast3-222104
+
+Opus 5.5 turned one sentence into a 3D system that opens in Blender, rigged, textured and ready to animate.
+
+It does not render the object. It constructs it, part by part, the way a modeller would if they had a week.
+
+> PARSE - the sentence becomes a parts list with real dimensions, nothing implied
+> MASS - each part built as clean geometry, quads only, no sculpted mush
+> RIG - joints and pivots placed where the object physically bends
+> SKIN - materials assigned per surface, scale and roughness set separately
+> PACK - exported with a named hierarchy, so a human can edit one part
+
+Image models…

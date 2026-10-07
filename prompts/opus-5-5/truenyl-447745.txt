@@ -1,0 +1,24 @@
+# truenyl-447745
+Author: @truenyl
+Original post: https://x.com/truenyl/status/2103086316137447745
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/truenyl-447745
+
+Claude Opus 5.5 is absurdly good at 3D.
+
+I reran one of my recent 3D experiments with Claude Opus 5.5.
+
+Same prompt, same references, same real-world scene I had previously built with GPT-6 Astra.
+
+The result was much better than I expected.
+
+Put simply, for this specific use case, Claude Opus 5.5 was a clear win for me.
+
+The biggest differences for me were instruction following and taste.
+
+With the same references, Opus 5.5 got much closer to the Zelda Breath of the Wild-style look I was aiming for.
+
+The layout felt more intentional.
+
+It picked better camera angles.
+
+Asset placement made more…

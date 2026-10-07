@@ -1,0 +1,6 @@
+# petert-350098
+Author: @_petert
+Original post: https://x.com/_petert/status/2103878940100350098
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/petert-350098
+
+Claude Opus 5.5 + HyperFrames + Gemini Flash 3.8 + Three js で架空の家計簿サービスの動画作ってみたけど、なかなか良い

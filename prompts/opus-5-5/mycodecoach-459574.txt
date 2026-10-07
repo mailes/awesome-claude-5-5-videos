@@ -1,0 +1,6 @@
+# mycodecoach-459574
+Author: @MyCodeCoach
+Original post: https://x.com/MyCodeCoach/status/2103181065976459574
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/mycodecoach-459574
+
+A cartoony battle royale: storm timer, players alive, inventory hotbar, minimap, emote wheel and a victory results screen

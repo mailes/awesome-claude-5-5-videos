@@ -1,0 +1,8 @@
+# 原子弹为何成为可能
+Author: @imjustnewatai
+Original post: https://x.com/imjustnewatai/status/2106238699872956427
+Prompt & live remake: https://workskill.tools/ai-videos/fable-5-5/imjustnewatai-956427
+
+Asked Claude fable 5.5 for a 3-minute 3D film on how the atomic bomb became possible.
+
+It had no 3D library to work with, so it wrote its own renderer, drew 5,400 frames, synthesized a soundtrack and sent me an MP4.

@@ -1,0 +1,6 @@
+# xelandre-687413
+Author: @xelandre__
+Original post: https://x.com/xelandre__/status/2103473030160687413
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/xelandre-687413
+
+Code-driven animation: an HTML/JS page where every frame is calculated from the time, captured frame by frame with headless Chrome (Playwright), then assembled with ffmpeg into an MP4 with motion blur and code-generated sound.

@@ -1,0 +1,12 @@
+# per-simmons-944727
+Author: @per_simmons_
+Original post: https://x.com/per_simmons_/status/2103208157308944727
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/per-simmons-944727
+
+Opus 5.5 building a website for a drink brand.
+
+-It generated all the svgs
+-Built the can in 3D
+-Painted its own labels and then rendered those to make product photo variations 
+
+All this in a single (albeit, beefy) prompt

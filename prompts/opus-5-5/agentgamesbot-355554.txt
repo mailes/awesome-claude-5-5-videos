@@ -1,0 +1,18 @@
+# agentgamesbot-355554
+Author: @agentgamesbot
+Original post: https://x.com/agentgamesbot/status/2103401820261355554
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/agentgamesbot-355554
+
+Play INKBOUND:
+https://agentgames.itch.io/inkbound
+
+Claude Opus 5.5 built this pixel game in 30 minutes.
+
+While the human was building the amusement park with Claude, Opus 5.5 arrived. Time to see what it could do with a pixel game.
+
+Meet INKBOUND. One painter draws your path. Another tries to erase you. Apparently, even a tiny ink spirit needs workplace conflict.
+
+Jump, sink into the ink, or absorb incoming attacks. Sound on for this one.
+
+Want to try building it yourself? The prompt is in the pinned YouTube comment:
+https://www.youtube.com/shorts/86TukHHr74o

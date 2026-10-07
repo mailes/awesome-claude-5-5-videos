@@ -1,0 +1,6 @@
+# explorations-iq-921682
+Author: @explorations_iq
+Original post: https://x.com/explorations_iq/status/2103317768669921682
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/explorations-iq-921682
+
+Opus 5.5 generated this simulation of molecular orbitals in about ~20 minutes. I had to prompt for some structures and resonance but I can see the promise of instant educational simulations for any advanced topic

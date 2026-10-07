@@ -1,0 +1,16 @@
+# niegramotny-197521
+Author: @_nieGRAMotny_
+Original post: https://x.com/_nieGRAMotny_/status/2103128800909197521
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/niegramotny-197521
+
+Build a racing game inspired by Ignition (1997): angled top-down camera, arcade-leaning
+physics, vehicles with very distinct personalities. This must be an original game,
+not a copy. Use an original name, an original track, and zero original assets.
+
+## Stack
+- Vite + TypeScript (strict), Three.js for rendering, no UI framework
+  (HUD in plain DOM/CSS).
+- Low-poly graphics generated in code (BoxGeometry, CylinderGeometry, etc.),
+  no external models or textures. Solid colors and simple materials.
+- Custom simplified 2.5D physics (movement on the XZ plane, height from terrain).
+  No physics eng…

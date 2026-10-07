@@ -1,0 +1,11 @@
+# howdevelop-733090
+Author: @HowDevelop
+Original post: https://x.com/HowDevelop/status/2103840883812733090
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/howdevelop-733090
+
+Create and render a 15-second motion graphics video introducing TanStack AI. Make it feel like a premium            
+  developer-tool launch film produced by Studio1: fast, precise, visually surprising, and polished enough to open a   
+  keynote or lead a social campaign.                                                                                  
+                                                                                                                      
+  Use the TanStack AI feature details below as the source of truth. Studio1 is presenting the film; do not imply      
+  Studi…

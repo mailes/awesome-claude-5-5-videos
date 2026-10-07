@@ -1,0 +1,10 @@
+# viggle-pinoc-434495
+Author: @Viggle_PINOC
+Original post: https://x.com/Viggle_PINOC/status/2102861939072434495
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/viggle-pinoc-434495
+
+Create a playable version of Minecraft in my browser. Add advanced shaders that make it look as real and beautiful as possible.  
+
+World: vanilla ES modules + three.js (importmap from jsdelivr, no build step). Procedural voxel terrain with trees, beaches and water. Make it look as real and beautiful as possible: physically based sky, clouds, soft shadows, water reflections and caustics, god rays, bloom, PBR block textures. First/third-person player (V toggles), mining and placing blocks, torches, stairs, a hotbar and an inventory (E), a day/night cycle with nights that are still readable.  
+
+C…

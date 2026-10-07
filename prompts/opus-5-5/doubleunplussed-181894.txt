@@ -1,0 +1,14 @@
+# doubleunplussed-181894
+Author: @doubleunplussed
+Original post: https://x.com/doubleunplussed/status/2103697580421181894
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/doubleunplussed-181894
+
+I'd like you to make a music video in a similar style to this one:
+
+https://github.com/JohnHeibel/PDoomVideo
+
+To this song:
+
+https://youtu.be/cobZuBii0Z0?si=ada6wxomeJbo-LRl
+
+Don't feel the need to represent everything in the lyrics literally - feel free to include relevant references to concepts, events, and lore in the video, even if obscure (especially if obscure). E.g. when the lyrics say "when they say they're just predicting tokens...", you might depict a "stochastic parrot". That one's not particularly obscure but is the kind of thing I mean. Instead of depicting like, literally predict…

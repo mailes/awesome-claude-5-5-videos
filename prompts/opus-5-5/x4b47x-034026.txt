@@ -1,0 +1,6 @@
+# x4b47x-034026
+Author: @x4b47x
+Original post: https://x.com/x4b47x/status/2103019799614034026
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/x4b47x-034026
+
+Create a pure javascript animation. 30-60s, vertical 9:16, paper cut-out shadow theatre style with gentle, fitting audio (made in code) on the topic: What makes a place feel like home?

@@ -1,0 +1,6 @@
+# 一句话生成的网站介绍片
+Author: @congcongtang
+Original post: https://x.com/congcongtang/status/2106960360053846301
+Prompt & live remake: https://workskill.tools/ai-videos/fable-5-5/congcongtang-846301
+
+这几天搞了一个自己的网站：https://xitangai.com，用 Fable 5.5一句话生成了一个介绍视频，初步及格线吧，慢慢调

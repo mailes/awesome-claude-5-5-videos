@@ -1,0 +1,10 @@
+# prasenx-693512
+Author: @prasenx
+Original post: https://x.com/prasenx/status/2103538744695693512
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/prasenx-693512
+
+make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.
+
+compose the soundtrack yourself, fully synthesized in code. no samples, no audio files, no VST instruments. every cut and transition must land on the beat.
+
+1920x1080, 60fps. render the final video with the music mixed in as an MP4 and tell me where it's saved.

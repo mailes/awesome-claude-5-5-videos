@@ -1,0 +1,10 @@
+# 伦巴底街驾驶模拟
+Author: @mindblown_ai
+Original post: https://x.com/mindblown_ai/status/2106112279079199037
+Prompt & live remake: https://workskill.tools/ai-videos/fable-5-5/mindblown-ai-199037
+
+a Waymo run down San Francisco's iconic Lombard Street.
+
+built with fable 5.5 + threejs
+
+play here:

@@ -1,0 +1,10 @@
+# 人类未来一百五十年
+Author: @imjustnewatai
+Original post: https://x.com/imjustnewatai/status/2106489784382197771
+Prompt & live remake: https://workskill.tools/ai-videos/fable-5-5/imjustnewatai-197771
+
+Asked Claude fable 5.5 for an animated film about the next 150 years of humanity.
+
+One prompt. It wrote the script, animated every frame in code, and composed the score.
+
+4 minutes, from math teachers protesting calculators in 1986 to a kid in 2176 who finds fusion boring.

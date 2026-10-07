@@ -1,0 +1,11 @@
+# iamtanzil-120030
+Author: @iamtanzil_
+Original post: https://x.com/iamtanzil_/status/2103459843831120030
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/iamtanzil-120030
+
+# OBLT E-bike Header
+
+A full-viewport, dark, cinematic e-bike product header for the brand **OBLT**, built in React (client component) with pure CSS and an interactive cursor-following "x-ray" spotlight reveal — moving the mouse wipes away the bike's exterior photo to expose its internal carbon/gearbox structure underneath. Built with React only (no animation libraries).
+
+## Tech stack (libraries actually imported)
+- React only — `useRef`, `useState`, and the `MouseEvent` type. No framer-motion, no GSAP, no icon library. All animation is hand-written CSS keyframes + an inline CSS `mask-image`.…

@@ -1,0 +1,6 @@
+# linearuncle-971663
+Author: @LinearUncle
+Original post: https://x.com/LinearUncle/status/2103128559174971663
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/linearuncle-971663
+
+请用Manim给我制作一个导数概念学习的视频，要求通俗易懂，并且有例子，引人思考。配音使用edge-tts

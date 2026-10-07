@@ -1,0 +1,16 @@
+# elliot-garreffa-446825
+Author: @elliot_garreffa
+Original post: https://x.com/elliot_garreffa/status/2104213514944446825
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/elliot-garreffa-446825
+
+alright opus 5.5 is pretty damn good at motion graphics
+
+our @Muse connector tracker is live and i gave opus our http://agentdiscoverability.com/track/muse url and our brand guidelines and let it cook
+
+things i found improved the output
+-  references - give it 1 or 2 reference videos to go off
+- storyboard - its pretty good at defining the features to include but if you have specifics, list them out prior
+- video - use remotion as the main driver 
+- and honestly, the prompt below. i didnt use it originally and then asked it to do a re-run with this prompt and the output was far better
+
+"make t…

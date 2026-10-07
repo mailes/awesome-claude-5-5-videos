@@ -1,0 +1,11 @@
+# morse-369333
+Author: @__morse
+Original post: https://x.com/__morse/status/2103485566570369333
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/morse-369333
+
+x3Cinputs>
+Ask me for: 8 to 12 UI states I want the shape to become (e.g. button, loader, player, slider, toggle, tabs, chart, command palette, toast), pure black and white or one accent color, and a royalty-free song around 120 BPM (e.g. Mixkit, free for commercial use).
+x3C/inputs>
+
+x3Cdirection>
+Dribbble-level UI motion. One shape, never cut: every state is the same element morphing its size, radius and color while its content swaps with a short blur. A cursor drives every change with real clicks and drags. Light warm-gray canvas, black and white components, one clean UI font (Geist). Springs eve…

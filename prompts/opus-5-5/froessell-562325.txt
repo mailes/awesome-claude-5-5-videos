@@ -1,0 +1,20 @@
+# froessell-562325
+Author: @froessell
+Original post: https://x.com/froessell/status/2103789415323562325
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/froessell-562325
+
+PRD — Police Chase Arcade Game
+
+Working title: Heatwave
+Platform: iOS + Android
+Engine: Unity
+Genre: Top-down 3D arcade chase / survival
+Orientation: Portrait
+Input: One-thumb touch controls
+Business model: TBD — design MVP around gameplay first
+Primary goal: Build a genuinely fun playable prototype before adding progression or monetization.
+⸻
+Product vision
+A fast, chaotic mobile arcade game where the player is constantly being pursued by increasingly aggressive police.
+The player cannot directly attack.
+Instead, they survive by driving aggressively, drifting around obstacles, making sudden t…

@@ -1,0 +1,10 @@
+# andre-lucaxxs-846347
+Author: @andre_lucaxxs
+Original post: https://x.com/andre_lucaxxs/status/2103292636945846347
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/andre-lucaxxs-846347
+
+Dentro da pasta do flora tem uma outra pasta chamada "ads" com videos e prints do Flora(Caso queira usar como referencia).
+
+Use apenas: JavaScript, Playwright e FFmpeg. Faça um vídeo moderno, elegante e impactante para meu produto.
+
+https://apps.apple.com/pt/app/flora-calend%C3%A1rio-menstrual/id6789702093

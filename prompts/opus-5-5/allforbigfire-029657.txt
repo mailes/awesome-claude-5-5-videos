@@ -1,0 +1,6 @@
+# allforbigfire-029657
+Author: @allforbigfire
+Original post: https://x.com/allforbigfire/status/2104193522715029657
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/allforbigfire-029657
+
+「もしかしてロボットアニメみたいな3機の乗り物が変形合体してロボットになるシーンもアニメ風3D CGで作れますか。」ってClaude Opus 5.5に聞きました。モデリング、陰影、輪郭線、BGM、効果音まで、全部Python 1ファイル（約1000行）のコードで生成したそうです。 #Claude #動画生成

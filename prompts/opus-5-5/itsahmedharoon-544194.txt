@@ -1,0 +1,12 @@
+# itsahmedharoon-544194
+Author: @itsahmedharoon
+Original post: https://x.com/itsahmedharoon/status/2103986344414544194
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/itsahmedharoon-544194
+
+Jumping on the Claude Code + Hyperframe bandwagon.
+
+I made this intro completely zero-shot using Opus 5.5.
+
+Claude downloaded and ran an open-source model for text-to-speech, added the turbine sound at the start, layered in the other sound effects, and nailed the motion and visuals.
+
+The accuracy of the whole thing is unreal. I’m in awe.

@@ -1,0 +1,6 @@
+# 3D 连锁反应装置
+Author: @imjustnewatai
+Original post: https://x.com/imjustnewatai/status/2105889407056109991
+Prompt & live remake: https://workskill.tools/ai-videos/fable-5-5/imjustnewatai-109991
+
+Gave Claude Fable 5.5 one prompt: "Extremely complicated 3d rube goldberg machine, accurate physics, aaa gfx, vfx" Then asked for a 1-minute video. What came back:

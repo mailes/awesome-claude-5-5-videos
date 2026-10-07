@@ -1,0 +1,6 @@
+# llama3dstudio-012980
+Author: @llama3dstudio
+Original post: https://x.com/llama3dstudio/status/2104115092124012980
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/llama3dstudio-012980
+
+Rock skipping game made with Three.js and Opus 5.5.

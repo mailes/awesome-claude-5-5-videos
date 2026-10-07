@@ -1,0 +1,11 @@
+# gmgmgm1545-245507
+Author: @gmgmgm1545
+Original post: https://x.com/gmgmgm1545/status/2103793820815245507
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/gmgmgm1545-245507
+
+我让 @claudeai Opus 5.5 制讲一只机械寄居蟹在深海追一束光，追到最后发现，发现那束光其实一直在自己手里的动画视频。    
+
+没用任何视频生成AI，纯靠写代码画出来的——
+角色、镜头、转场、音乐全是程序渲染的。
+
+看完了。感觉能做到这个程度还是很可以的！
