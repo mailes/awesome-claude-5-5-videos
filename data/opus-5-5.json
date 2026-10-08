@@ -28,6 +28,26 @@
  ],
  "cases": [
   {
+   "slug": "kloss-xyz-muy2mrf6",
+   "authorHandle": "kloss_xyz",
+   "authorUrl": "https://x.com/kloss_xyz",
+   "postUrl": "https://x.com/kloss_xyz/status/2107696042053431360",
+   "prompt": "MAGNETIC: one sound clip → a hyper-real psychedelic Blender short that loops forever",
+   "promptLength": 84,
+   "title": "visual masterpiece",
+   "titleZh": "visual masterpiece",
+   "postText": "I told Opus 5.5 I wanted a visual masterpiece.\r\n\r\nGave it Suno + Blender on Extra High. 3 hours 27 minutes later it handed me back this 20-second video. I touched zero keyframes.\r\n\r\nThen I asked how it made it.\r\n\r\nBefore touching Blender, it measured the track down to every pitch dive https://t.co/xl5AZtkT8T",
+   "postedAt": null,
+   "category": null,
+   "techTags": [
+    "opus"
+   ],
+   "width": 1920,
+   "height": 1080,
+   "durationSeconds": 21,
+   "hasPreview": true
+  },
+  {
    "slug": "andyl5cc-muxp5wa9",
    "authorHandle": "AndyL5cc",
    "authorUrl": "https://x.com/AndyL5cc",
