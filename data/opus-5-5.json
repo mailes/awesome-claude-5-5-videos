@@ -28,6 +28,28 @@
  ],
  "cases": [
   {
+   "slug": "areebadesigns-mv08vmu8",
+   "authorHandle": "areebadesigns",
+   "authorUrl": "https://x.com/areebadesigns",
+   "postUrl": "https://x.com/areebadesigns/status/2107784426893767090",
+   "prompt": null,
+   "title": "Animated illustration created with Opus 5.5",
+   "titleZh": "用 Opus 5.5 制作的动态插画",
+   "postText": "illustration in motion using Opus 5.5 https://t.co/lKCEI2VEbt",
+   "postedAt": null,
+   "category": "motion",
+   "techTags": [
+    "animation",
+    "illustration",
+    "motion",
+    "ai"
+   ],
+   "width": 1670,
+   "height": 1682,
+   "durationSeconds": 13,
+   "hasPreview": false
+  },
+  {
    "slug": "kloss-xyz-muy2mrf6",
    "authorHandle": "kloss_xyz",
    "authorUrl": "https://x.com/kloss_xyz",
@@ -45,6 +67,29 @@
    "width": 1920,
    "height": 1080,
    "durationSeconds": 21,
+   "hasPreview": true
+  },
+  {
+   "slug": "wowbuffet-muz4rku6",
+   "authorHandle": "wowbuffet",
+   "authorUrl": "https://x.com/wowbuffet",
+   "postUrl": "https://x.com/wowbuffet/status/2107974221259583720",
+   "prompt": "Three.js sand zen garden in a browser tab",
+   "promptLength": 41,
+   "title": "Three.js sand zen garden in a browser tab",
+   "titleZh": "Three.js 浏览器禅意沙园",
+   "postText": "Three.js sand zen garden in a browser tab\r\n\r\nBuilt by @claudeai Opus 5.5. No hand edits. Sound on!\r\n\r\n#claude #AI #Opus https://t.co/Tv4ZPHVnxm",
+   "postedAt": null,
+   "category": "interactive",
+   "techTags": [
+    "threejs",
+    "webgl",
+    "zen-garden",
+    "ai-generated"
+   ],
+   "width": 1080,
+   "height": 1080,
+   "durationSeconds": 30,
    "hasPreview": true
   },
   {

@@ -33,6 +33,49 @@
  ],
  "cases": [
   {
+   "slug": "blueemi99-muz4wwu2",
+   "authorHandle": "blueemi99",
+   "authorUrl": "https://x.com/blueemi99",
+   "postUrl": "https://x.com/blueemi99/status/2106031355922387163",
+   "prompt": "Fable 5.5 - made me a short, fast motion video, proving how good of a motion designer is it",
+   "promptLength": 91,
+   "title": "Fable 5.5 AI fast-paced motion design short",
+   "titleZh": "Fable 5.5 生成快节奏动态设计短片",
+   "postText": "Fable 5.5 - made me a short, fast motion video, proving how good of a motion designer is it\r\n\r\nThis is so good, removed all the sloppiness Opus 5.5 had, also the sounds are a lot better, and more original than Opus 5.5's https://t.co/fjtrY5335r",
+   "postedAt": null,
+   "category": "motion",
+   "techTags": [
+    "motion-design",
+    "ai-video",
+    "fast-paced",
+    "animation"
+   ],
+   "width": 1920,
+   "height": 1080,
+   "durationSeconds": 15,
+   "hasPreview": true
+  },
+  {
+   "slug": "cherry-mx-reds-muz4uul2",
+   "authorHandle": "cherry_mx_reds",
+   "authorUrl": "https://x.com/cherry_mx_reds",
+   "postUrl": "https://x.com/cherry_mx_reds/status/2106095190285144331",
+   "prompt": "I asked Fable for some art history and received 40,000 years of it in 15 seconds with a cat subplot\r\n\r\nFABLE 5.5 MUST BE PACED IMMEDIATELY",
+   "promptLength": 138,
+   "title": "a cat subplot",
+   "titleZh": "a cat subplot",
+   "postText": "I asked Fable for some art history and received 40,000 years of it in 15 seconds with a cat subplot\r\n\r\nFABLE 5.5 MUST BE PACED IMMEDIATELY https://t.co/pRrNxmIvil",
+   "postedAt": null,
+   "category": "motion",
+   "techTags": [
+    "opus"
+   ],
+   "width": 1920,
+   "height": 1080,
+   "durationSeconds": 15,
+   "hasPreview": true
+  },
+  {
    "slug": "ishuagra02-604925",
    "authorHandle": "ishuagra02",
    "authorUrl": "https://x.com/ishuagra02",
