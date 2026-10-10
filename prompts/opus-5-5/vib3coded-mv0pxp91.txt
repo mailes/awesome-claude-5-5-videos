@@ -1,0 +1,34 @@
+# Plush Crab
+Author: @vib3coded
+Original post: https://x.com/vib3coded/status/2108190478889824662
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/vib3coded-mv0pxp91
+
+PROMPT 
+Create a self-contained interactive WebGPU page "Plush Crab" in the existing Material Studies plush series
+(No. 020, fig. 20), matching the series' editorial layout: serif masthead, specimen control panel, live
+readouts, collapsible "Inside the experiment" notes, English UI, works on mobile, graceful no-WebGPU fallback.
+
+THE TOY: a cute plush crab sitting on a studio table. A wide, puffy domed shell with a flat seat and a soft
+brow; two eyes on short stalks, each a fuzzy eyeball with a round white felt patch and a glossy safety eye;
+an embroidered smile and soft blush cheeks; pale spots scattered over the top of the shell; a paler
+underside; stitched seams where legs are sewn on. Real-time shell-texture fur (many shells, alpha-to-coverage,
+MSAA) that lags behind jiggles and can be combed. Palettes: Coral (default), Sand, Blue (with red claw tips).
+
+BODY: one SDF meshed with surface nets, simulated as an XPBD soft body (hex lattice, shape matching +
+tetrahedral volume) under gravity and friction; it breathes, rights itself, can be grabbed, squashed,
+lifted and thrown, and lands softly.
+
+LEGS AND CLAWS: eight walking legs and two arms are rods with a plastic "wire" inside — posed toward
+blended targets (sit, stand, hide, wave, hang), and bent legs keep the new shape until "Straighten".
+Each arm ends in a chunky claw with two fat fingers that hang from the arm tip in the claw's own frame;
+opening and closing is a single angle. Legs get pale joint bands and toes; claw fingers get dark tips.
+
+BEHAVIOUR: "Scuttle" walks sideways (keeps its side to the goal) with an alternating gait and footholds;
+"Snip snip" raises both claws and snaps them a beat apart (count snips in a readout); "Hide" pulls the legs in
+and covers its eyes with the claws, then peeks out; "Wave claws" raises them high. With the Finger tool it
+scuttles toward a held-out finger, turns to face it, reaches with its claws and gives a gentle pinch (toast);
+poking the shell makes it hide. Held up in the air, legs dangle and paddle. Idle: small scuttles, snips, waves.
+
+CONTROLS: tools Hand / Finger / Comb; sliders Stuffing, Pile, Wire; buttons Scuttle, Snip snip, Hide,
+Wave claws, Straighten, Smooth fur, Reset; ¼ speed, Mesh, Pause. Readouts: Mass, Volume (% of rest),
+Steps, Snips. Single HTML file, no external models or textures.

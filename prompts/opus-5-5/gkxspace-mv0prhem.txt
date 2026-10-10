@@ -1,0 +1,12 @@
+# Claude Motion 联手 Higgsfield Katana 单人动效工作流
+Author: @gkxspace
+Original post: https://x.com/gkxspace/status/2108368287591751969
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/gkxspace-mv0prhem
+
+wok，做动效最大的痛点彻底打通，Claude Motion + Higgsfield Katana，一个人就能承包一整个工作室！！！
+
+Claude Motion 做动效本来就很牛逼，配上 Higgsfield Katana，从想法、做动画、来回修改到最终渲染，一条工作流解决。
+
+而且整条视频都是代码写的，字体、时间点、运镜、情绪，每个细节都能改，你说哪里它就改哪里。
+
+你只管当艺术总监，从想法到成片，全流程制作交给 Claude 和 Higgsfield
