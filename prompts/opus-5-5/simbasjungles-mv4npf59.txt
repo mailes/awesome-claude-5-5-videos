@@ -1,0 +1,6 @@
+# create a 3D world
+Author: @SimbasJungles
+Original post: https://x.com/SimbasJungles/status/2109095401273938072
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/simbasjungles-mv4npf59
+
+I sent some base photos and the 2D floor plan, combined with some Pinterest references, and asked it to create a 3D world using Blender and Unreal Engine 5.

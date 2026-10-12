@@ -1,0 +1,8 @@
+# 纯C++与SDL模拟像素游戏
+Author: @developedbyed
+Original post: https://x.com/developedbyed/status/2109410237706908088
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/developedbyed-mv4nss5f
+
+No engine, no image files, no sound files. 
+
+Just C++ and SDL. Every pixel in this game is simulated https://t.co/tK3l9J9ayg

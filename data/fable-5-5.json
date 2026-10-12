@@ -33,6 +33,51 @@
  ],
  "cases": [
   {
+   "slug": "varcyyyy-mv4nrvun",
+   "authorHandle": "Varcyyyy",
+   "authorUrl": "https://x.com/Varcyyyy",
+   "postUrl": "https://x.com/Varcyyyy/status/2109365394637267198",
+   "prompt": null,
+   "title": "AI Video Showcase Claiming to Outperform Opus 5.5",
+   "titleZh": "声称超越 Opus 5.5 的 AI 视频演示",
+   "postText": "Opus 5.5 can never make videos like us https://t.co/g3hBqrXx3K",
+   "postedAt": null,
+   "category": "motion",
+   "techTags": [
+    "ai-video",
+    "showcase",
+    "generative",
+    "motion"
+   ],
+   "width": 1920,
+   "height": 1080,
+   "durationSeconds": 20,
+   "hasPreview": true
+  },
+  {
+   "slug": "ultimaxbt-mv20inz6",
+   "authorHandle": "ultimaxbt",
+   "authorUrl": "https://x.com/ultimaxbt",
+   "postUrl": "https://x.com/ultimaxbt/status/2108573246274547840",
+   "prompt": "<inputs>\r\nAsk me for: a slider target, three short notification messages, a reply to type, one accent color and a royalty-free track around 120 BPM. If I skip anything, use 100, \"Slider - Reached 100\", \"Gravity - Something is falling\", \"Messages - What now?\", \"retry\" and electric blue.\r\n</inputs>\r\n\r\n<direction>\r\nA 10-second 2D UI motion film in 16:9. Set every scene on a near-black canvas with a subtle dot grid. Use charcoal controls, crisp white text, one blue accent and a white ball that travels through the whole film. A real cursor handles the opening interaction; the ball carries the motion from one component to the next. Keep the UI precise and the impacts physical, with small spring overshoots. Move the camera through one continuous layout so each interaction fills the frame.\r\n\r\nBanned: hard cuts, stock footage, glows, particle bursts, unrelated transitions, oversized bounces and text that blurs during a camera move.\r\n</direction>\r\n\r\n<structure>\r\nAround 10 seconds, with an action on every major beat.\r\n\r\nToggle: the cursor clicks a blue switch. Its white ball lifts away as the camera follows it to a horizontal slider.\r\n\r\nSlider: the ball lands on the knob and drives it across the track. The blue fill follows exactly, while a value bubble counts toward 100 above the knob.\r\n\r\nNotifications: reaching 100 releases the ball and brings in three dark cards: \"Slider\", \"Gravity\" and \"Messages\". Each card lands on a separate beat. The camera follows the ball down to \"What now?\".\r\n\r\nReply: a small \"Reply\" pill expands into a text field. A keyboard rises beneath it without cutting to a new scene.\r\n\r\nKeyboard: the ball taps the keys as \"retry\" appears in the field. It lands on Return, the blue send button fires and the reply becomes a compact blue message.\r\n\r\nReturn: the camera pulls back to reveal the toggle, slider, cards and keyboard in the same world. The ball travels back to the opening switch. Match its position, the cursor and the switch state to the first frame for a clean loop.\r\n</structure>\r\n\r\n<build>\r\n1. Use one HTML file at 1920x1080 and 60fps. Compute every visual from time inside seek(t): no CSS transitions, timers or state carried between frames.\r\n2. Put all UI components in one world. Animate a single camera transform with position and log-space zoom, so each close-up is a real move through that world.\r\n3. Give the white ball a continuous path between the toggle, slider, cards and keys. Use closed-form springs for impacts and brief squash on contact.\r\n4. Derive the slider fill and number from the ball's horizontal position. The tooltip must stay centered over the knob all the way to 100.\r\n5. Schedule each key press at a fixed time. The visible reply is the substring typed by that time, so seeking to any frame produces the same result.\r\n6. Use measured beats for the click, slider hits, card arrivals, key taps, send and return. Add a restrained UI sound at each contact.\r\n7. Render one still per beat to check timing and readability, then export the full film with Playwright at 60fps. Inspect the fast camera moves and loop boundary frame by frame.\r\n</build>\r\n\r\n<gotchas>\r\nThe ball cannot jump between components: every handoff needs a visible path. Keep the value bubble attached to the slider knob. Give notifications enough room to remain readable as the camera moves. The keyboard must press the same keys that produce the text in the field. Match the first and last frames, including the ball's direction and cursor position, or the loop will stutter.\r\n</gotchas>\r\n\r\n<start>\r\nAsk me for the inputs, then show me the beat map and four stills (toggle, slider, notifications, keyboard) before building the full video.\r\n</start>",
+   "promptLength": 3688,
+   "title": "Single white dot UI motion system",
+   "titleZh": "白点串联的UI动效系统",
+   "postText": "fable 5.1 is insane for motion design. 0 keyframes.\r\n\r\nthis 10-second video uses one white dot to connect an entire UI motion system\r\n\r\ntoggle → slider → notifications → reply → keyboard → back to toggle\r\n\r\nhere's the prompt to recreate the idea ↓\r\n\r\n&lt;inputs&gt;\r\nAsk me for: a slider https://t.co/Bjud9175i8",
+   "postedAt": null,
+   "category": "motion",
+   "techTags": [
+    "motion-design",
+    "ui-animation",
+    "single-dot",
+    "prompt"
+   ],
+   "width": 1922,
+   "height": 1080,
+   "durationSeconds": 10,
+   "hasPreview": true
+  },
+  {
    "slug": "blueemi99-muz4wwu2",
    "authorHandle": "blueemi99",
    "authorUrl": "https://x.com/blueemi99",
