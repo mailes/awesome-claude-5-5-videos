@@ -1,0 +1,10 @@
+# 用Claude Opus制作的Codex动态图形广告
+Author: @lucian__03
+Original post: https://x.com/lucian__03/status/2109234833688084633
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/lucian-03-mv50d97h
+
+This is the third installment of motion graphics made with AI.
+
+Following the previous X ad motion graphic...
+
+This time, I captured the process of Codex working in a 20-second ad

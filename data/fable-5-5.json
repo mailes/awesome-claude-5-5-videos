@@ -33,6 +33,50 @@
  ],
  "cases": [
   {
+   "slug": "shengtang135754-mv5yobuf",
+   "authorHandle": "shengtang135754",
+   "authorUrl": "https://x.com/shengtang135754",
+   "postUrl": "https://x.com/shengtang135754/status/2109598324609409331",
+   "prompt": null,
+   "title": "AI-generated life journey from birth to old age",
+   "titleZh": "AI生成的一生：从出生到暮年",
+   "postText": "我哭了，很多人说opus5.5开到max会路由到Claude next最新模型，几句话就出视频了。\r\n我听了我信了，然后听到了美元在燃烧的声音。\r\n看看下面我们的一生，这个做出来花了多少美元额度\r\n来猜猜啊？🥹🥹 https://t.co/1Y0dFIou0X",
+   "postedAt": null,
+   "category": "motion",
+   "techTags": [
+    "ai-video",
+    "life-journey",
+    "cinematic",
+    "llm-generated"
+   ],
+   "width": 1280,
+   "height": 720,
+   "durationSeconds": 29,
+   "hasPreview": false
+  },
+  {
+   "slug": "mnilax-mv50chqv",
+   "authorHandle": "Mnilax",
+   "authorUrl": "https://x.com/Mnilax",
+   "postUrl": "https://x.com/Mnilax/status/2109314840057565345",
+   "prompt": null,
+   "title": "Opus-powered product launch motion video repo",
+   "titleZh": "用 Opus 一键生成产品发布视频的仓库",
+   "postText": "it's absolutely gold\r\n\r\nex-Figma Design Lead dropped a list of 15 github repos that turn Opus 5.5 into a full motion design studio\r\n\r\nSHIP A LAUNCH VIDEO\r\n\r\n01. product-launch-motion:\r\nhttps://t.co/gdZDZ323mZ\r\n-&gt; point it at your product, get script, voiceover, camera moves and film https://t.co/QpAUKQxyF3",
+   "postedAt": null,
+   "category": "motion",
+   "techTags": [
+    "motion",
+    "product-launch",
+    "ai-agent",
+    "github"
+   ],
+   "width": 1080,
+   "height": 1350,
+   "durationSeconds": 15,
+   "hasPreview": false
+  },
+  {
    "slug": "varcyyyy-mv4nrvun",
    "authorHandle": "Varcyyyy",
    "authorUrl": "https://x.com/Varcyyyy",

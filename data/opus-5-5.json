@@ -28,6 +28,97 @@
  ],
  "cases": [
   {
+   "slug": "thebuggeddev-mv5z2cjm",
+   "authorHandle": "thebuggeddev",
+   "authorUrl": "https://x.com/thebuggeddev",
+   "postUrl": "https://x.com/thebuggeddev/status/2109524968686100500",
+   "prompt": "Gave Claude a photo of packaging concept and asked it to recreate it in 3D.\r\n\r\nIt built that entire carton using math, including curved panels, corrugated edges, transparent windows, and a folding lid.\r\n\r\nMade with Three.js and WebGPU by Claude Opus 5.5 https://t.co/2JxEiDWFSK",
+   "promptLength": 277,
+   "title": "Claude recreates packaging concept as 3D carton in Three.js",
+   "titleZh": "Claude用Three.js将包装设计还原为3D纸盒",
+   "postText": "Gave Claude a photo of packaging concept and asked it to recreate it in 3D.\r\n\r\nIt built that entire carton using math, including curved panels, corrugated edges, transparent windows, and a folding lid.\r\n\r\nMade with Three.js and WebGPU by Claude Opus 5.5 https://t.co/2JxEiDWFSK",
+   "postedAt": null,
+   "category": "3d",
+   "techTags": [
+    "threejs",
+    "webgpu",
+    "packaging",
+    "procedural"
+   ],
+   "width": 2826,
+   "height": 1754,
+   "durationSeconds": 22,
+   "hasPreview": true
+  },
+  {
+   "slug": "kevin-t-ngo-mv5xx7ri",
+   "authorHandle": "kevin_t_ngo",
+   "authorUrl": "https://x.com/kevin_t_ngo",
+   "postUrl": "https://x.com/kevin_t_ngo/status/2109766087328100521",
+   "prompt": null,
+   "title": "JavaScript-coded animation of a honey bee's life",
+   "titleZh": "JavaScript 绘制的蜜蜂一生动画",
+   "postText": "Claude Opus 5.5 drew every frame of this animation using JavaScript. The life of a honey bee. https://t.co/rGtM3QIaa0",
+   "postedAt": null,
+   "category": "motion",
+   "techTags": [
+    "javascript",
+    "animation",
+    "nature",
+    "procedural"
+   ],
+   "width": 1080,
+   "height": 1080,
+   "durationSeconds": 53,
+   "hasPreview": true
+  },
+  {
+   "slug": "lexnlin-mv5xwdf7",
+   "authorHandle": "LexnLin",
+   "authorUrl": "https://x.com/LexnLin",
+   "postUrl": "https://x.com/LexnLin/status/2109718604883370450",
+   "prompt": "This is made by Opus 5.5 high. \r\n\r\nsfx improved",
+   "promptLength": 47,
+   "title": "Opus 5.5 AI clip with improved sound effects",
+   "titleZh": "Opus 5.5 生成短片，音效升级版",
+   "postText": "This is made by Opus 5.5 high. \r\n\r\nsfx improved https://t.co/YElgm7agUx",
+   "postedAt": null,
+   "category": "motion",
+   "techTags": [
+    "ai-video",
+    "sfx",
+    "generative",
+    "animation"
+   ],
+   "width": 1920,
+   "height": 1080,
+   "durationSeconds": 40,
+   "hasPreview": true
+  },
+  {
+   "slug": "lucian-03-mv50d97h",
+   "authorHandle": "lucian__03",
+   "authorUrl": "https://x.com/lucian__03",
+   "postUrl": "https://x.com/lucian__03/status/2109234833688084633",
+   "prompt": "This is the third installment of motion graphics made with AI.\r\n\r\nFollowing the previous X ad motion graphic...\r\n\r\nThis time, I captured the process of Codex working in a 20-second ad",
+   "promptLength": 183,
+   "title": "Codex AI motion graphics ad made with Claude Opus",
+   "titleZh": "用Claude Opus制作的Codex动态图形广告",
+   "postText": "🔥 이번엔 클로드 Opus 5.5로 코덱스 모션그래픽 광고까지 만들어봤습니다..! 🔥\r\n\r\nAI로 만든 모션그래픽 3탄입니다.\r\n\r\n지난번 X 광고 모션그래픽에 이어서... \r\n\r\n이번에는 코덱스가 일하는 과정을 20초짜리 광고로 담아봤습니다. https://t.co/UW3JcE0dJb",
+   "postedAt": null,
+   "category": "motion",
+   "techTags": [
+    "motion-graphics",
+    "codex",
+    "ai-ad",
+    "claude-opus"
+   ],
+   "width": 1440,
+   "height": 2560,
+   "durationSeconds": 10,
+   "hasPreview": true
+  },
+  {
    "slug": "developedbyed-mv4nss5f",
    "authorHandle": "developedbyed",
    "authorUrl": "https://x.com/developedbyed",

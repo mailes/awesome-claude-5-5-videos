@@ -1,0 +1,14 @@
+# 用 Opus 一键生成产品发布视频的仓库
+Author: @Mnilax
+Original post: https://x.com/Mnilax/status/2109314840057565345
+Prompt & live remake: https://workskill.tools/ai-videos/fable-5-5/mnilax-mv50chqv
+
+it's absolutely gold
+
+ex-Figma Design Lead dropped a list of 15 github repos that turn Opus 5.5 into a full motion design studio
+
+SHIP A LAUNCH VIDEO
+
+01. product-launch-motion:
+https://t.co/gdZDZ323mZ
+-&gt; point it at your product, get script, voiceover, camera moves and film https://t.co/QpAUKQxyF3

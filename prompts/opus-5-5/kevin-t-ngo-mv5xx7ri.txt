@@ -1,0 +1,6 @@
+# JavaScript 绘制的蜜蜂一生动画
+Author: @kevin_t_ngo
+Original post: https://x.com/kevin_t_ngo/status/2109766087328100521
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/kevin-t-ngo-mv5xx7ri
+
+Claude Opus 5.5 drew every frame of this animation using JavaScript. The life of a honey bee. https://t.co/rGtM3QIaa0
