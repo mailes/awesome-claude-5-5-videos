@@ -33,6 +33,28 @@
  ],
  "cases": [
   {
+   "slug": "javiiarchive-mv6mftbr",
+   "authorHandle": "javiiarchive",
+   "authorUrl": "https://x.com/javiiarchive",
+   "postUrl": "https://x.com/javiiarchive/status/2109664187244753316",
+   "prompt": null,
+   "title": "AI-generated video made with Opus 5.5",
+   "titleZh": "用 Opus 5.5 生成的 AI 视频",
+   "postText": "opus 5.5 is actually insane. made another video with https://t.co/rXFFNwXWpf 🤯 https://t.co/jSjXzYQDJI",
+   "postedAt": null,
+   "category": "motion",
+   "techTags": [
+    "ai-video",
+    "text-to-video",
+    "generative",
+    "opus"
+   ],
+   "width": 1920,
+   "height": 1080,
+   "durationSeconds": 20,
+   "hasPreview": true
+  },
+  {
    "slug": "shengtang135754-mv5yobuf",
    "authorHandle": "shengtang135754",
    "authorUrl": "https://x.com/shengtang135754",

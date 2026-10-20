@@ -1,0 +1,6 @@
+# WebGPU高斯泼溅世界传送门跳跃
+Author: @XRarchitect
+Original post: https://x.com/XRarchitect/status/2112207444101541962
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/xrarchitect-mvg1hozu
+
+Portal jumping through gaussian splat worlds with WebGPU. real time. sound on. https://t.co/Shlb0vf3xT
