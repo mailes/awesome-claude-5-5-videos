@@ -1,5 +1,7 @@
 # Awesome Claude 5.5 Videos
 
+> **WorkSkill Open-Source Series:** **Awesome Claude 5.5 Videos** · [Awesome Agent Skills](https://github.com/mailes/awesome-agent-skills) · [Free AI Website Skills](https://github.com/mailes/free-ai-website-skills) · [Awesome Gemini 4 Argon](https://github.com/mailes/awesome-gemini-4-argon) · [Live Store & MCP](https://workskill.tools)
+
 **777 viral videos made with Claude Opus 5.5 & Fable 5.5 — with the prompts behind them.**
 
 Every video credits its author and links to the original X post. Open any video on
