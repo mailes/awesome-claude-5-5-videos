@@ -1,0 +1,8 @@
+# A sci-fi shooter built with Blender and Unreal
+Author: @higgsfield_ai
+Original post: https://x.com/higgsfield_ai/status/2119897113534529605
+Prompt & live remake: https://workskill.tools/ai-videos/fable5-2/higgsfield-ai-529605
+
+Fable 5.2 + Higgsfield nearly one shotted this shooter in about 3.5 hours using Blender and Unreal Engine 5.
+On previous models this took several iterations. Here we made 1 fix.
+Full workflow below 👇

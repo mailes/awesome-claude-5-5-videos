@@ -1,0 +1,8 @@
+# A gravity slingshot game with ten levels
+Author: @jonathanhamiche
+Original post: https://x.com/jonathanhamiche/status/2119894929795145756
+Prompt & live remake: https://workskill.tools/ai-videos/fable5-2/jonathanhamiche-145756
+
+Fable 5.2 came out this afternoon.
+10 minutes later I had a full space game with real gravity,
+10 levels and particle effects.

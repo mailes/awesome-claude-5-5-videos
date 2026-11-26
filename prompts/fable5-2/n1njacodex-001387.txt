@@ -1,0 +1,89 @@
+# A volume slider with an underwater world
+Author: @N1njaCodex
+Original post: https://x.com/N1njaCodex/status/2119883560937001387
+Prompt & live remake: https://workskill.tools/ai-videos/fable5-2/n1njacodex-001387
+
+Make &quot;Deep Dive Switch&quot;, No. 063 in a series of web material studies: a depth switch that goes from light to dark, from the sea&#x27;s surface to the floor of the abyss. Build it as one self-contained page with no libraries: raw WebGL2, Web Audio and a 2D pixel buffer.
+PAGE
+- Editorial layout: a small kicker &quot;Material Studies / No. 063 · WebGL + Web Audio&quot;, an italic serif title &quot;Deep Dive Switch.&quot;, and a one-line caption.
+- The switch sits centred and large. Below it go three readouts (Depth, Zone, Music), a hint line and a &quot;Sound on/off&quot; button.
+- The whole page&#x27;s colours (background, text, lines) follow the depth: pale aqua at the surface, near-black blue in the abyss.
+- It must work at phone width.
+THE SWITCH
+- A pill-shaped switch in a moulded bezel: white glossy plastic at the surface, deep navy in the abyss.
+- A soft drop shadow falls on the page and fades to nothing before the canvas edge.
+- A slight inner shadow runs along the top of the track.
+- Inside it is a 176×50 pixel-art cross-section of the sea.
+- Redraw it every frame on the CPU and show it with nearest sampling, never smoothed.
+- Use whole device pixels per scene pixel where there is room.
+- The knob is a glass bathysphere: a vertical capsule of clear glass, a little taller than the track, drawn in a single full-canvas WebGL2 fragment shader.
+- It magnifies what is under it (about 1.28×) and bends it.
+- At its rim it splits R, G and B. A darker refraction band sits inside a bright edge, with a Fresnel tint and a faint aqua cast.
+- Two highlights: a long soft streak at the upper left and a small dot at the lower right.
+- Light gathers toward its foot, and it casts a soft shadow on the scene.
+- Motion:
+- It follows the finger on a spring, lagging a little.
+- It stretches sideways with speed and squashes vertically to keep its volume.
+- It wobbles on a damped spring driven by its acceleration.
+- Controls:
+- Drag the knob, or drag anywhere on the track.
+- Tap to send it to the other end; it travels there on its spring.
+- Arrow keys, Home/End and Space/Enter also work.
+- The switch has role=&quot;slider&quot; with ARIA values.
+THE SEA (left = shallow, right = deep; an original palette)
+- Sprites are filled shapes stamped with an automatic 1-px outline and a light top / dark bottom.
+- The sea floor, left to right:
+- a sandy beach with a sandcastle;
+- a reef plateau with rocks;
+- a drop-off into rocky deep water;
+- the abyssal floor rising again at the far right.
+- Up top on the left is sky with a sun, two flapping gulls and a little red sailboat bobbing on animated waves with a foam line.
+- The surface is level over the shallows, then rises out of the picture toward the deep, so the view seems to sink.
+- The shallows:
+- turquoise water with swaying slanted god rays and moving caustics on the sand;
+- branching corals in pink, orange and violet, brain corals, swaying sea grass;
+- an anemone with a little orange-and-white fish darting about it;
+- a sea turtle gliding back and forth, paddling;
+- a school of yellow fish circling over the reef that scatters away from the knob.
+- The twilight zone:
+- the water darkens to deep blue;
+- three translucent jellyfish, pink and violet, pulse and trail wavy tentacles; they glow softly and pulse faster when the knob comes near;
+- every half minute a faint whale silhouette swims past in the background.
+- The midnight zone:
+- a long swaying chain of glowing cyan-and-green beads (a siphonophore);
+- small dark lanternfish with blinking light spots;
+- marine snow drifting down.
+- The abyssal floor:
+- a hydrothermal vent breathing bubbles;
+- an anglerfish with a rod and a glowing lure;
+- a treasure chest.
+LIGHT AND THE DIVE
+- Daylight falls off with depth and dims a little toward the floor. It is quantised and Bayer-dithered so the gradient steps like pixel art.
+- Below the shallows the bathysphere&#x27;s searchlight comes on: a stepped, dithered pool of light around the knob, with a blue haze scattered in the water.
+- Inside the lens everything is shown lit.
+- Behind the knob trail rising bubbles and, in the dark, sparks of blue bioluminescence.
+- Glowing crescent echoes trail behind it: pale aqua in the shallows, cyan in the deep.
+- The lure lights its own little pool.
+- As the knob nears, the anglerfish turns and opens its toothy mouth wide, and its lure blazes.
+- At the very bottom the chest lid swings open on glowing gold, and gold glints fly up from it.
+SOUND — all synthesised live with Web Audio, original music
+- 84 BPM, a four-bar loop in D minor (Dm7 · B♭maj7 · Gm7 · A7sus4), on one lookahead-scheduled clock with a little swing.
+- Layers fade in and out with depth:
+0. The surface: waves (filtered noise swelling slowly) and gull cries. The moment you go under, a splash, and the waves drop to a dull underwater roar.
+1. The reef: a kalimba ostinato (sine with bright, quickly fading overtones, in a long reverb), with bubbles popping on the off-beats.
+2. A soft dub beat: a round kick, rim clicks into a dotted echo, a swung shaker, a deep bass.
+3. The twilight: slow detuned pads, a whale singing now and then (a gliding, vibrato tone through a formant filter), then sonar pings ringing in the echo.
+4. The abyss: a breathing sub drone, a slow lub-dub heartbeat, and glassy arpeggios of high pentatonic notes ringing in the echo.
+- The music sits behind a gentle low-pass that closes a little with depth, about 5 dB under the switch&#x27;s own sounds.
+- Switch sounds:
+- a bubble bloop when grabbed, a plop when released;
+- a water swish and bubble pops that grow with drag speed;
+- a splash crossing the surface either way;
+- a glass chime past each jellyfish;
+- the angler&#x27;s deep gulp;
+- a fanfare when the chest opens: a rising kalimba arpeggio, a low boom and a shimmer.
+- Audio starts on the first touch; a Sound on/off button.
+READOUTS
+- Depth, 0 → 6,000 m, mapped to the zones.
+- Zone: Surface / Sunlit / Twilight / Midnight / Abyss.
+- Music: Waves / Kalimba / Reef dub / Whale song / Sonar / Abyss.

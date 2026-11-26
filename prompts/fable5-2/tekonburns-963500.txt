@@ -1,0 +1,8 @@
+# A Rubik&#x27;s cube solved from six photos
+Author: @TekonBurns
+Original post: https://x.com/TekonBurns/status/2119880835121963500
+Prompt & live remake: https://workskill.tools/ai-videos/fable5-2/tekonburns-963500
+
+Holy shit.
+I haven&#x27;t touched my rubik&#x27;s cube in a very long time. Gave Fable 5.2 six photos and it rendered a solution.
+The wild part is that turns out this solution is very short. It didn&#x27;t solve it like a human would, first making a white cross then the white side etc.

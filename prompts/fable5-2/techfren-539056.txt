@@ -1,0 +1,10 @@
+# Simple rules, complex beauty
+Author: @techfren
+Original post: https://x.com/techfren/status/2119899949756539056
+Prompt & live remake: https://workskill.tools/ai-videos/fable5-2/techfren-539056
+
+I asked Fable 5.2 for the most impressive motion design video it could make.
+The 40,000 birds at 0:44 are a real flock simulation that Fable wrote from scratch.
+No Blender etc, it wrote its own renderer for this film.
+It wrote ~5k lines of Python and GLSL and rendered ~4.6k frames on my RTX 5080 in about 61 minutes.
+(added some bg music from suno afterwards, everything else is claude code generated)

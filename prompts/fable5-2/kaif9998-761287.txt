@@ -1,0 +1,8 @@
+# A showreel that says goodbye to Opus 5.5
+Author: @kaif9998
+Original post: https://x.com/kaif9998/status/2119903824848761287
+Prompt & live remake: https://workskill.tools/ai-videos/fable5-2/kaif9998-761287
+
+Claude Code , two prompts:
+1. &quot;make a 15 second animated video that says final goodbye to Opus 5.5 as Fable 5.2 is here and I switched to it&quot;
+2. &quot;make the video like it&#x27;s your showreel&quot;

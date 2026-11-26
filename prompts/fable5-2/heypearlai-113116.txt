@@ -1,0 +1,9 @@
+# A motion reel from one shared prompt
+Author: @heypearlai
+Original post: https://x.com/heypearlai/status/2119903760529113116
+Prompt & live remake: https://workskill.tools/ai-videos/fable5-2/heypearlai-113116
+
+I ran this exact prompt through Fable 5.2 to see the difference.
+The motion, the lighting, the fluidity, it&#x27;s a massive leap from Opus 5.5.
+[prompt]
+&quot;make a dynamic 15 second motion graphics video that shows what an incredible motion designer you are, like it&#x27;s your showreel for a resume, go all out.&quot;

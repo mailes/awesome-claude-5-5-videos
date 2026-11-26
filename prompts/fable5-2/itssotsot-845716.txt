@@ -1,0 +1,6 @@
+# Fable 5.2 introduces itself in pure JavaScript
+Author: @itssotsot
+Original post: https://x.com/itssotsot/status/2119888070283845716
+Prompt & live remake: https://workskill.tools/ai-videos/fable5-2/itssotsot-845716
+
+I asked Fable 5.2 to introduce itself with a video created purely with JavaScript. Here&#x27;s what it did.

@@ -1,0 +1,11 @@
+# Turbo Tails, a 3D kart racer in the browser
+Author: @petergyang
+Original post: https://x.com/petergyang/status/2119901658394358005
+Prompt & live remake: https://workskill.tools/ai-videos/fable5-2/petergyang-358005
+
+Here&#x27;s my new 3D kart racer game I built with @claudeai Fable 5.2:
+→ It runs directly in your browser
+→ 6 racers with drifting, ramps, and items
+→ Supports both single and multiplayer!
+Best of all, you can play it right here for free::
+📌 Watch my new video to see how it compares to Opus 5.5&#x27;s game + 4 other use cases:

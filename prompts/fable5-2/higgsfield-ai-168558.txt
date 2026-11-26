@@ -1,0 +1,11 @@
+# An android head built from a 360 video
+Author: @higgsfield_ai
+Original post: https://x.com/higgsfield_ai/status/2119895459519168558
+Prompt & live remake: https://workskill.tools/ai-videos/fable5-2/higgsfield-ai-168558
+
+Stop generating 3D models from a single image.
+We gave Claude Fable 5.2 a 12-second 360° video and Higgsfield MCP:
+&gt; It built this android head in Blender
+&gt; Modeled the skull, face, armor and cables as separate parts
+&gt; Ready to take into a game engine
+Here&#x27;s how we did it 👇

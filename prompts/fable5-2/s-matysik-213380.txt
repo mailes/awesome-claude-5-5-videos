@@ -1,0 +1,9 @@
+# A command center for an agent system
+Author: @s_matysik
+Original post: https://x.com/s_matysik/status/2119909371484213380
+Prompt & live remake: https://workskill.tools/ai-videos/fable5-2/s-matysik-213380
+
+This video shows a separate test: I asked Fable 5.2 to build a new command center for my agent system from a snapshot of its data.
+One prompt, about 10 minutes, under $2.
+3D knowledge graph, 15 panels, mobile layout, zero console errors.
+It also built the benchmark page in the first video.

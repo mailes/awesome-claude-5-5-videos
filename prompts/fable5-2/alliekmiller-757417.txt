@@ -1,0 +1,13 @@
+# A nationwide water safety map
+Author: @alliekmiller
+Original post: https://x.com/alliekmiller/status/2119868629818757417
+Prompt & live remake: https://workskill.tools/ai-videos/fable5-2/alliekmiller-757417
+
+🚨 BREAKING: Anthropic has released Claude Fable 5.2
+I tested the new model and had it build a nationwide water safety map for me.
+My question was which big American cities are best set up for water in the next few decades. The #1 answer, according to the model it built out, is...
+Indianapolis, Indiana.
+From one prompt, it scoured federal data across the EPA, USGS, NOAA, FEMA, and the Census Bureau (more than 5 GB, including 15.5 million EPA violation records and 2 million PFAS test results). Then I had a dozen other AI agents check its work (which found some errors, like Alaska’s North Slope getting a high score because its temperature data was missing).
+The final map rates 3,100 counties and more than 900 city areas on 17 measures. On an aggregate score between water supply, climate outlook, water quality, testing and oversight, and backup, Indianapolis scored the highest. Cleveland trails by about a tenth of a point, with Cincinnati, St. Louis, and Nashville right behind.
+It is insane to me that I can have a research question in my head and get this level of insight hours later.
+The new model also built out this trailer video below.

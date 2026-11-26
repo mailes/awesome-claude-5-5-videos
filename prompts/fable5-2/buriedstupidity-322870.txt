@@ -1,0 +1,7 @@
+# Spoken thoughts on a blog post, turned into a video
+Author: @buriedstupidity
+Original post: https://x.com/buriedstupidity/status/2119900194540322870
+Prompt & live remake: https://workskill.tools/ai-videos/fable5-2/buriedstupidity-322870
+
+so i read anthropic&#x27;s fable 5.2 blog, while dictacting my thoughts aloud, gave it to fable 5.2 and asked it to turn my thoughts into a video.
+my first impressions on fable 5.2.

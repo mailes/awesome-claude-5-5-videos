@@ -1,0 +1,14 @@
+# 41天一人开发治愈系钓鱼游戏全流程
+Author: @neviannn
+Original post: https://x.com/neviannn/status/2123373787391435153
+Prompt & live remake: https://workskill.tools/ai-videos/fable5-2/neviannn-mwwxzt7h
+
+how a cozy fishing game comes together in 41 days and 227 commits...
+
+one dev, Claude Opus 5.5, and a tight daily loop
+
+the workflow:
+
+→ Claude Opus 5.5 handles the game logic and fishing mechanics
+→ Blender builds the assets... coral, rocks, little crabs on the sand
+→ Unity https://t.co/rX2mIjYCG8

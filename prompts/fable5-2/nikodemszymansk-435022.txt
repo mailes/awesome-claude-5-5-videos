@@ -1,0 +1,9 @@
+# A night race through neon Tokyo
+Author: @nikodemszymansk
+Original post: https://x.com/nikodemszymansk/status/2119880518875435022
+Prompt & live remake: https://workskill.tools/ai-videos/fable5-2/nikodemszymansk-435022
+
+Właśnie wyszedł Claude Fable 5.2.
+Jeden prompt → 30 minut → grywalna gra wyścigowa w three.js: nocne Tokio, mokry asfalt z odbiciami, neony, 5 rywali, 3 okrążenia.
+Koszt: ok. 15% tygodniowego limitu w planie za 20 $.
+Gram w to w przeglądarce. 🏎️ #fable52 #anrhropic #fable #drivegame

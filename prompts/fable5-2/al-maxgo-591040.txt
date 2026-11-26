@@ -1,0 +1,6 @@
+# A trailer for a chart-making tool
+Author: @al_maxgo
+Original post: https://x.com/al_maxgo/status/2119891197317591040
+Prompt & live remake: https://workskill.tools/ai-videos/fable5-2/al-maxgo-591040
+
+Prompt from @midudev: Create an animated video trailer for this project to share on social media. I want you to sell it in a spectacular way—with amazing sound and animations. Use hyperframes.

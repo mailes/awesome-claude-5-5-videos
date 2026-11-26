@@ -1,0 +1,6 @@
+# Fable 5.2 animates its own announcement
+Author: @grafikcem
+Original post: https://x.com/grafikcem/status/2119910525064937806
+Prompt & live remake: https://workskill.tools/ai-videos/fable5-2/grafikcem-937806
+
+Bugün duyurulmana özel Fable 5.2 modeli için opus 5.5 subagentları kullanarak kendine 60 saniyelik bir tanıtım animasyon filmi hazırla.

@@ -1,0 +1,7 @@
+# A sticker sign made of tiny prisms
+Author: @Maaaaaaadiii
+Original post: https://x.com/Maaaaaaadiii/status/2119885527243714946
+Prompt & live remake: https://workskill.tools/ai-videos/fable5-2/maaaaaaadiii-714946
+
+I asked Claude Fable 5.2 to choose its own tools and build something for me.
+Canvas 2D drew the art, a shader turned every sticker into tiny prisms; Three.js hung the chains; Web Audio rang the bells. No images, no audio files.

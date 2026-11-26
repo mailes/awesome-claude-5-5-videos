@@ -1,0 +1,6 @@
+# A bullet through a water balloon
+Author: @MatthewBerman
+Original post: https://x.com/MatthewBerman/status/2119868636810953017
+Prompt & live remake: https://workskill.tools/ai-videos/fable5-2/matthewberman-953017
+
+Here&#x27;s a 3D simulation of a bullet going through a balloon filled with water. Create in WebGL!

@@ -1,0 +1,8 @@
+# An AI announces its software engineering takeover
+Author: @iamwesleysmits
+Original post: https://x.com/iamwesleysmits/status/2120230414568599912
+Prompt & live remake: https://workskill.tools/ai-videos/fable5-2/iamwesleysmits-599912
+
+AI is coming for software engineers. So I let it announce it itself.
+Built entirely in code with Fable 5.2 in T3 Code. No video tools.
+(software engineer version of @ChrisGPT&#x27;s idea)

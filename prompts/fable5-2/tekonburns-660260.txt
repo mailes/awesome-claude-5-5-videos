@@ -1,0 +1,7 @@
+# A virus capsid assembling itself
+Author: @TekonBurns
+Original post: https://x.com/TekonBurns/status/2119871565311660260
+Prompt & live remake: https://workskill.tools/ai-videos/fable5-2/tekonburns-660260
+
+Mythos 5.2 predicted capsids. I asked Fable 5.2 to build one.
+One prompt, one HTML file. 420 protein subunits assembling into a T=7 virus shell: 12 pentamers first, then 60 hexamers, the same geometry real viruses use.

@@ -1,0 +1,6 @@
+# A Bach-style chorale in G minor
+Author: @aug5thmusic
+Original post: https://x.com/aug5thmusic/status/2119879319426404780
+Prompt & live remake: https://workskill.tools/ai-videos/fable5-2/aug5thmusic-404780
+
+Prompt: “In LilyPond (version 2.24), write a 4-part chorale in the style of Bach, 3/4 time, G minor. Use two staves -- soprano and alto on the top staff, tenor and bass on the bottom staff. Respond with only the code block.” (Extra High effort)

@@ -1,0 +1,10 @@
+# A golden sailing ship above the clouds
+Author: @marcthecreatorr
+Original post: https://x.com/marcthecreatorr/status/2119890973560054072
+Prompt & live remake: https://workskill.tools/ai-videos/fable5-2/marcthecreatorr-054072
+
+Fable 5.2 (3D Sailing Ship)
+- medium reasoning on claude code, est. ~38 minutes ~$17
+Anthropic cooked with this model. it built this in Three.js, no Blender or external 3D assets were used
+we’re getting to the point where 3D scenes built entirely with code are starting to look like actual renders.
+OpenAI really has to step up now and drop 6.2 Astra

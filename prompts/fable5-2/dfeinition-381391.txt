@@ -1,0 +1,7 @@
+# How game characters blend their moves
+Author: @dfeinition
+Original post: https://x.com/dfeinition/status/2119870838606381391
+Prompt & live remake: https://workskill.tools/ai-videos/fable5-2/dfeinition-381391
+
+How does a game character go from standing to walking to talking without a jump? It blends the moves together.
+Fable 5.2 built this robot in code to show how 🤖

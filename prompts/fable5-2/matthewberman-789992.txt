@@ -1,0 +1,6 @@
+# A Gears of War-style shooter in Unreal
+Author: @MatthewBerman
+Original post: https://x.com/MatthewBerman/status/2119868629491789992
+Prompt & live remake: https://workskill.tools/ai-videos/fable5-2/matthewberman-789992
+
+Gears of War e-Day clone. Fable was able to control Unreal Engine and create this incredible game over ~3 days.

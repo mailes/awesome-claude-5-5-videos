@@ -1,0 +1,6 @@
+# A compiler that runs code in the Game of Life
+Author: @maxleiter
+Original post: https://x.com/maxleiter/status/2119869170871652487
+Prompt & live remake: https://workskill.tools/ai-videos/fable5-2/maxleiter-652487
+
+I asked Fable 5.2 to write a compiler that lets you write code and get it running in Conway&#x27;s Game of Life

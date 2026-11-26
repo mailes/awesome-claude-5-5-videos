@@ -1,0 +1,6 @@
+# A password strength meter that builds a castle
+Author: @crtvTeknologist
+Original post: https://x.com/crtvTeknologist/status/2119894073024606617
+Prompt & live remake: https://workskill.tools/ai-videos/fable5-2/crtvteknologist-606617
+
+Password strength indicator. Made with Fable 5.2

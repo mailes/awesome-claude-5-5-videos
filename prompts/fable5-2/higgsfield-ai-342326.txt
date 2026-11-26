@@ -1,0 +1,7 @@
+# A flat sketch becomes a textured 3D room
+Author: @higgsfield_ai
+Original post: https://x.com/higgsfield_ai/status/2119908486880342326
+Prompt & live remake: https://workskill.tools/ai-videos/fable5-2/higgsfield-ai-342326
+
+Fable 5.2 turns a flat sketch into an interactive textured 3D room, on an engine it wrote from scratch in 43 minutes.
+Textures made using Higgsfield MCP.

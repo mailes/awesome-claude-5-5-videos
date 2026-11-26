@@ -1,0 +1,6 @@
+# An immersive 3D model of ancient Jerusalem
+Author: @kplikethebird
+Original post: https://x.com/kplikethebird/status/2119900775727902732
+Prompt & live remake: https://workskill.tools/ai-videos/fable5-2/kplikethebird-902732
+
+Build an immersive, historically accurate 3D model of Jerusalem during the week of Jesus&#x27;s final visit using Blender.

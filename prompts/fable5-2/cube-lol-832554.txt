@@ -1,0 +1,7 @@
+# A 46-second film with zero generated images
+Author: @cube__lol
+Original post: https://x.com/cube__lol/status/2119904449556832554
+Prompt & live remake: https://workskill.tools/ai-videos/fable5-2/cube-lol-832554
+
+A 46-second film with zero generated images. Claude Fable 5.2 wrote the code that draws every frame and plays every note.
+Turn your song into a music video.

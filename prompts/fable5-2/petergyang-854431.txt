@@ -1,0 +1,9 @@
+# A travel ad for Fushimi Inari in autumn
+Author: @petergyang
+Original post: https://x.com/petergyang/status/2119886560992854431
+Prompt & live remake: https://workskill.tools/ai-videos/fable5-2/petergyang-854431
+
+Fushimi Inari in Kyoto is one of my favorite places in Japan.
+So I asked @claudeai Fable 5.2 to make a 20-second travel ad of the shrine in autumn, entirely in code, music included.
+Honestly, Opus was already goated at making 3D motion videos and Fable just takes it to the next level.
+Check out the clip below, then watch my new video to see how Opus 5.5 did with the same prompt:

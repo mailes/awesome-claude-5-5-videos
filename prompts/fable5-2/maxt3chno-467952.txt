@@ -1,0 +1,76 @@
+# A zombie eagle sculpted through Blender MCP
+Author: @maxt3chno
+Original post: https://x.com/maxt3chno/status/2119896698281467952
+Prompt & live remake: https://workskill.tools/ai-videos/fable5-2/maxt3chno-467952
+
+You are building a game-ready 3D creature in Blender through Blender MCP (execute_blender_code for actions, renders and viewport screenshots to check your work). The attached image is the reference. Goal: an outstanding, realistic, production-quality model that matches the reference as closely as possible. Work like a senior creature artist: plan, build, look at your renders critically, fix, and only move on when a stage really looks right. Never ask me questions; if something is unclear, choose the option closest to the reference and continue.
+WORK_DIR = C:\Users\Max\Documents\Claude\Fablr (create subfolders textures, renders, export). Save after every stage as WORK_DIR\eagle_stage#.blend. Work only inside WORK_DIR. If Blender is not running, start &quot;C:\Program Files\Blender Foundation\Blender 5.2\blender.exe&quot; --online-mode yourself; the MCP add-on starts on port 9876.
+========================================
+WHAT IT IS
+A zombie war eagle from a dark, gritty survival island game: a huge, ragged, half-dead bird of prey standing on the ground, hunched forward, wings half-open and drooping, screaming, ready to attack. Realistic, heavy, dirty, dangerous. Never cartoon, never toy-like.
+Size: about 1.6 m tall hunched (top of the head about 1.45 m), wingspan about 4.2 m in this pose.
+Metres. Faces -Y, Z up, feet on the ground at Z = 0, origin between the feet.
+Static model in the pose of the reference. No rig, no animation.
+========================================
+THE REFERENCE, PART BY PART
+HEAD AND SKULLReal eagle/vulture skull shape: flat top, heavy bony brow ridge, long face running into the beak, cheek and jaw lines readable under the feathers. Pushed forward and slightly down, angry.
+Head and neck feathers: pale grey-beige, shaggy, messy, spiky on top and at the back of the head, darker and dirtier toward the neck.
+BEAK AND MOUTHBig raptor beak: deep at the base, curving down into a sharp hook that overhangs the lower beak, sharp cutting edges, cere with nostril at the base. Grey-yellow horn, darker and dirty toward the tip, small chips and cracks.
+Separate lower beak, mouth wide open (about 35-40 degrees), pink-red tongue, dark wet throat.
+EYESSet deep in the sockets under the brow ridge, only part of the eyeball visible, real eyelids around them.
+Its RIGHT eye (left side of the image): blind, milky white with a faint grey iris shadow. A deep diagonal scar runs through it from the forehead to the cheek: a real cut in the geometry, feathers missing along it, dried dark red blood.
+Its LEFT eye (right side of the image): amber-orange iris with a darker outer ring, round black pupil, glossy cornea, faint glow.
+BODYThick, heavy chest and shoulders, dark brown-black feathers, wet and clumped, layered down the body.
+Long shaggy feathers hang from the belly and thighs like a torn skirt, uneven, some broken.
+WOUNDOn its LEFT shoulder (right side of the image), where the wing meets the body: a torn hole in the skin. Ragged skin edge with feathers pulled out around it, lumpy wet dark-red flesh going inward.
+Two broken bones coming out of the flesh (one pointing up, one sideways), off-white to yellow, jagged splintered ends, a bit of blood on them.
+WINGSHalf-open and drooping: shoulders high, elbows out and slightly forward, wrists low, long primaries hanging down and outward, tips almost on the ground. Real wing anatomy: shoulder, elbow, wrist.
+Layered feathers: small and medium coverts over the top, secondaries along the arm, long primaries at the hand.
+Colours: black, dark brown, rust-orange, with light/dark bars across many feathers. Many feathers are torn, split, broken or missing, leaving gaps.
+NATURAL LEG: its right leg (left side of the image)Thigh hidden in feathers, then a thick scaly tarsus: big overlapping scutes on the front, small pebbly scales on the sides, yellow-brown, dirty, cracked.
+Foot: 3 toes forward, 1 back, thick toe pads, long black curved talons with sharp tips.
+MECHANICAL LEG: its left leg (right side of the image)A crude, heavy prosthetic of rusty dark iron, as thick as the real leg or thicker, hand-made from scrap.
+Upper part: thick pipe with bolted plates, round knee hub with a big bolt, a rod or piston along the back.
+Lower part wrapped in dirty leather straps and rags with blood stains, wire or rope tied around them.
+Iron foot with 3 forward and 1 back hinged claw blades: thick, hooked, chipped, rusty, dried blood.
+The top is strapped into the torn, bloody flesh of the thigh.
+========================================
+HOW TO BUILD IT
+BLOCKOUT. Simple shapes in the exact hunched pose. Front camera (orthographic) with the reference as background; also side and 3/4 cameras. Match proportions and pose to the reference before any detail. This is the most important check.
+BODY MESH. One clean, subdivision-ready quad mesh for body, neck, head and natural leg, with edge loops around eyes, beak, shoulders, wing roots and joints. Sculpt the skull, brow, cheeks, beak base and leg scales (multires or a displacement map from your own height map).
+FEATHERS. This decides the whole look, so give it the most care.Feather atlas, 2048 px: draw 10-16 different feathers yourself in numpy. Each one has a vane outline (tapered, slightly asymmetric), a central shaft (rachis), fine barb lines angled off the shaft, a few splits and gaps in the vane, a broken or ragged tip on some. Colour variants: black, dark brown, rust, barred (light/dark stripes), pale beige for the head. Alpha mask, plus a normal map from the barb lines and roughness.
+Cards: every card shows exactly ONE whole feather from ONE atlas cell, with UVs fitted to that cell. Never tile the atlas across a card. Material with alpha (Alpha Clip about 0.5, or Alpha Hashed), backface culling off, light passing slightly through (translucency or a little subsurface).
+Each card is curved: a slight bend along the shaft and across the vane, never a flat plane.
+Placement: scatter by script along the surface, oriented to a flow direction (from head toward tail and down the limbs), in overlapping rows like roof tiles. Random size, rotation, curl and colour within limits. Clumps of 3-5 feathers stuck together where it is wet. Head and neck feathers short and spiky, chest feathers medium and layered, belly and thigh fringe long and hanging.
+Wings: primaries and secondaries are real thin meshes (vane with slight thickness and a raised shaft), fanned from the wrist and the arm, each with its own angle and droop, some torn or missing. Coverts as layered cards over them.
+Under the feather cards, the body mesh is dark brown so gaps never show bright skin.
+WOUND. Cut a real hole in the body mesh at the shoulder, model the ragged skin edge as a thin flap, fill the hole with lumpy flesh going inward, add the two broken bones from cylinders with splintered, displaced ends.
+NATURAL LEG. Scutes and scales as real relief, toe pads, 4 talons as separate curved hard meshes.
+MECHANICAL LEG. Hard-surface modelling: pipes, plates, bolts, knee hub, piston, straps, rag wraps (cloth with thickness and folds), wire, hinged claw blades. Bevel all metal edges so they catch the light.
+MATERIALS (PBR, own textures, 2048 px max per set):Feathers: from the atlas, darker and wet at the roots, slightly lighter worn edges, dirt.
+Beak: grey-yellow horn, darker tip, dirt in the cracks. Mouth and tongue wet pink-red, throat dark.
+Eyes: glossy cornea; one milky blind, one amber with a faint glow.
+Flesh: wet dark red with lighter and darker patches. Dried blood dark brown-red, matte. Bones off-white to yellow, slightly glossy.
+Natural leg: yellow-brown scales, dark dirt in the gaps, black glossy talons.
+Prosthetic: dark rusty iron, bright worn metal on edges and bolt heads, orange-brown rust in recesses, brown leather, dirty grey-brown bloody rags.
+========================================
+CHECKS
+After each build step render front, 3/4 and side views (EEVEE, studio light from the upper left, neutral grey background). Put the front render next to the reference and look critically. Fix what is clearly off before moving on.
+At the end also render: head close-up, both feet close-up, wound close-up, one wing from behind.
+Final self-check, all must be true:
+Silhouette and pose match the reference.
+Feathers read as soft, individual, layered feathers with barbs and ragged edges, never as hard plates, combs or a repeating pattern.
+The beak is a hooked raptor beak, wide open, tongue visible.
+The eyes sit deep under the brow; one blind and scarred, one amber.
+Wound and bones read clearly; prosthetic is heavy, rusty and crude.
+No holes, no floating parts, no feather card seen edge-on as a thin line, no bad intersections.
+========================================
+GAME LIMITS
+At most 80,000 triangles total, feather cards included.
+At most 4 texture sets, each at most 2048 x 2048. In the GLB use JPEG for colour maps and PNG only where alpha is needed; the GLB should be under 30 MB.
+Object names: eagle_body, eagle_feathers, eagle_wings, eagle_beak, eagle_eyes, eagle_wound, eagle_prosthetic.
+========================================
+OUTPUT
+WORK_DIR\export\eagle.glb (textures embedded) and WORK_DIR\export\eagle.blend.
+WORK_DIR\export\final_front.png, final_34.png, final_side.png, final_head.png, final_feet.png, final_compare.png (reference next to final front).
+A short report: triangle count, texture sets and sizes, GLB size.

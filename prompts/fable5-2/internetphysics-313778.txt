@@ -1,0 +1,8 @@
+# Painting a portrait stroke by stroke
+Author: @internetphysics
+Original post: https://x.com/internetphysics/status/2119903808935313778
+Prompt & live remake: https://workskill.tools/ai-videos/fable5-2/internetphysics-313778
+
+Fable 5.2 actually paints Sam Altman
+This is not painting with code or using scripts to convert image pixel data into digital paint. Instead, it works on a digital simulation of real oil paint, where new colors can only be created by properly mixing existing paints with the available brushes
+Fable looks at the reference image and creates the painting by working in the browser and looking at screenshots of its own work as it progresses

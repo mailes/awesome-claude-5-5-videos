@@ -1,0 +1,14 @@
+# A one-shot basketball arena game
+Author: @joshvlc
+Original post: https://x.com/joshvlc/status/2119894656221958575
+Prompt & live remake: https://workskill.tools/ai-videos/fable5-2/joshvlc-958575
+
+Can you make a 3D basketball game using THREE.js? It should have a player in two different colored uniforms for the two teams and should follow the basic rules of basketball. It should have basic funcionality:
+- dribble (happens automatically when player runs)
+- shoot (hold for jump shot); dunk automatically near rim; jump/block if you don&#x27;t have the ball
+- steal
+- pass to teammate
+- 1 player: the teammates should be CPU and play normally (they should get open for you) and the player always controls the person with the ball (if someone on their team has it); the other team should be CPU controlled
+- fouls + penalty shots
+- the game should start on a tip (hit shoot button to tip)
+Note: include sound effects and crowd cheering! You can use Blender (installed on this machine) if needed for the graphics!

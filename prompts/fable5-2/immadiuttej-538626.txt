@@ -1,0 +1,9 @@
+# 400,000 particles in a perfect loop
+Author: @immadiuttej
+Original post: https://x.com/immadiuttej/status/2119882515410538626
+Prompt & live remake: https://workskill.tools/ai-videos/fable5-2/immadiuttej-538626
+
+400,000 particles.
+One HTML file. Zero libraries.
+Galaxy → Lorenz attractor → torus knot → DNA → Aizawa attractor, in a perfect loop.
+Claude Fable 5.2 Cooked

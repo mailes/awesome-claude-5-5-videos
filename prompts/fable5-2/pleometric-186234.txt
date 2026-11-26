@@ -1,0 +1,7 @@
+# A tribute to 90s Bryce ray tracing
+Author: @pleometric
+Original post: https://x.com/pleometric/status/2119901747930186234
+Prompt & live remake: https://workskill.tools/ai-videos/fable5-2/pleometric-186234
+
+Fable 5.2 - 3D video test with the Bryce rendering engine.
+I&#x27;m much more impressed with its 3D capabilities than with 2D. Planning / execution is faster than opus and it makes fewer errors. I also enjoy the aesthetic direction.

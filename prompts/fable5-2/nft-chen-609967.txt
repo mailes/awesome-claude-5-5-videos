@@ -1,0 +1,9 @@
+# The pelican benchmark turned into a playable scene
+Author: @NFT_Chen
+Original post: https://x.com/NFT_Chen/status/2119897058597609967
+Prompt & live remake: https://workskill.tools/ai-videos/fable5-2/nft-chen-609967
+
+实测！Fable 5.2 直接把鹈鹕骑单车，玩成完整可交互小游戏了！
+戴围巾的鹈鹕骑红车，车筐里装鱼，海边从黄昏一路骑到星空，速度可调、车灯会亮、按铃会响，动效丝滑到不行。
+已经不是生成图，是直接交付可玩的动画世界。
+#Fable52 #鹈鹕骑单车 #Anthropic #Dario #Claude

@@ -1,0 +1,13 @@
+# A PvP arena game in Unreal Engine
+Author: @parallelao
+Original post: https://x.com/parallelao/status/2119889035149877365
+Prompt & live remake: https://workskill.tools/ai-videos/fable5-2/parallelao-877365
+
+@UnrealEngine 5.9 Preview + @claudeai Fable 5.2
+I generated a @Battlerite inspired PvP game in a couple of prompts using
+- harness + template @EoC_Gold
+- particle effects from the @fab store
+- 3d assets by @tripoai
+- sounds @ElevenLabs
+- music @suno
+Reply for details

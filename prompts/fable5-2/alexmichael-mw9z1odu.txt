@@ -1,0 +1,6 @@
+# Claude Fable 5.2 made this entire video from scratch, writing Python to control 
+Author: @alexmichael
+Original post: https://x.com/alexmichael/status/2119876626179870838
+Prompt & live remake: https://workskill.tools/ai-videos/fable5-2/alexmichael-mw9z1odu
+
+Claude Fable 5.2 made this entire video from scratch, writing Python to control Blender 🤯 https://t.co/IbrfGMC9kC

@@ -1,0 +1,6 @@
+# The pelican on a bicycle, as one animated SVG
+Author: @eyadnour
+Original post: https://x.com/eyadnour/status/2119899260606910886
+Prompt & live remake: https://workskill.tools/ai-videos/fable5-2/eyadnour-910886
+
+Asked Claude Fable 5.2 to build the classic pelican on a bicycle benchmark. One 120kb SVG, zero JavaScript, 188 animations, legs that track pedals, wheels matching road speed.

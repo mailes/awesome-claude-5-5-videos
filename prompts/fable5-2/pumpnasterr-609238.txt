@@ -1,0 +1,7 @@
+# An Overwatch-style hero brawler
+Author: @Pumpnasterr
+Original post: https://x.com/Pumpnasterr/status/2119895877250609238
+Prompt & live remake: https://workskill.tools/ai-videos/fable5-2/pumpnasterr-609238
+
+Fable 5.2 just built an Overwatch-style third-person PvPvE hero brawler.
+Choose from 12 unique heroes, team up in 3v3, and jump between worlds as you battle the enemy team or face off against bosses.

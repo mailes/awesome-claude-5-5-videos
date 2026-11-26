@@ -1,0 +1,6 @@
+# A human anatomy explorer in Three.js
+Author: @SimonasLTU1
+Original post: https://x.com/SimonasLTU1/status/2119891671219622262
+Prompt & live remake: https://workskill.tools/ai-videos/fable5-2/simonasltu1-622262
+
+Fable 5.2 (high) human body anatomy 3D explorer with Three.js. 58 minutes, 8% of the weekly Fable usage used. I&#x27;m not sure if I&#x27;m as stunned as I thought I would be. For example, I didn&#x27;t see an &quot;explode view&quot; function, which is really useful in these tests and that almost all of the other models have. More tests needed.

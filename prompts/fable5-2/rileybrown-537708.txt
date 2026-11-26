@@ -1,0 +1,14 @@
+# A launch film staged on a desk
+Author: @rileybrown
+Original post: https://x.com/rileybrown/status/2119902109709537708
+Prompt & live remake: https://workskill.tools/ai-videos/fable5-2/rileybrown-537708
+
+This is actually INSANE.
+Fable 5.2 just created this in one shot, and I did it live on stream.
+I gave Claude one prompt.
+It wrote code that builds the entire room in Blender: the desk, the MacBook, the light, even Clawd.
+The laptop screen is a web page Claude built to look like the Claude app, played on the laptop inside the 3D scene.
+Then it animated everything itself: 13 camera shots, every single key press, Clawd jumping around, and the sun going from golden hour to night to sunrise.
+It rented 10 GPUs on RunPod and rendered the whole thing in 4K in 52 minutes. Total cost: $5.75.
+It graded it, added the titles, and made the music and sound effects with ElevenLabs.
+(More info below)

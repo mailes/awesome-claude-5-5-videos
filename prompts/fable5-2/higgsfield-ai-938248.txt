@@ -1,0 +1,25 @@
+# 3D models built from reference videos
+Author: @higgsfield_ai
+Original post: https://x.com/higgsfield_ai/status/2119890046748938248
+Prompt & live remake: https://workskill.tools/ai-videos/fable5-2/higgsfield-ai-938248
+
+Task: turn the robot head model you built into a 30-second product launch film in Blender (bpy), with a mechanical rig, an inside-out assembly and a final Cycles render on Higgsfield GPU.
+1. Mechanical rig (Armature + Constraints + Drivers). Rigid parts move on joints, no smooth skinning:
+- Neck: three-axis kinematics (Neck_Base, Neck_Mid, Head_Pivot). The hydraulic pistons slide in and out of their cylinders as the head tilts; the colored cable bundles flex slightly but stay under their ties.
+- Jaw: the pink jaw and the lower teeth hinge on Jaw_Bone; the side rods and rear dampers move in sync.
+- Eyes: both lenses aim at a shared target (Eye_LookAt_Target) with micro-saccades; the focus rings turn and the aperture opens and closes.
+- Temple gears turn with the head and the jaw (Driver); the indicators pulse.
+- Exploded-view assembly rig for every layer: neck → skull frame → temple gears → eyes → cables → jaw and teeth → blue shell panels → screws.
+2. Script: 30 seconds, 30 fps (900 frames), 16:9. Bezier curves with ease-in/ease-out and a slight overshoot when parts lock into place.
+Act I, The Assembly (0–15 s):
+- 0–4 s: macro low-angle shot; the neck column, pistons and cables snap into place.
+- 4–8 s: 3/4 orbit; the skull frame, temple gears and lens eyes assemble.
+- 8–11 s: close-up; the pink jaw locks on and the colored teeth drop in as a cascade.
+- 11–15 s: the blue shell panels close in from an exploded view; screws spin in, the last one at 14.5 s.
+Act II, The Awakening (15–30 s):
+- 15–19 s: the indicators light up, the eyes focus and look into the camera.
+- 19–23 s: side and rear tracking; the head turns and tilts, and the gears, pistons and cables work through the shell.
+- 23–26.5 s: the jaw opens and runs a series of articulation moves.
+- 26.5–30 s: hero shot, slow push-out; the jaw closes, the eyes make a final micro-focus, a rim light sweeps across the shell.
+3. Look (Cycles): a seamless grey-to-graphite studio, an overhead softbox, two rim lights shining through the translucent shell and an eye catchlight. Motion blur (shutter 0.5), animated depth of field, a subtle glare on the indicators, AgX Medium High Contrast.
+4. Render: debug locally and check 8 test stills, one per shot: nothing falls apart, the eyes and teeth move with the skull and jaw, glass and metal look photoreal. Then render all 900 frames in Cycles with GPU denoising on Higgsfield GPU with /gpu: show me the price first and start only after my yes. When it&#x27;s done, download the .mp4 and the .blend.

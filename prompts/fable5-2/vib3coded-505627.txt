@@ -1,0 +1,64 @@
+# A volume slider with a cozy room inside
+Author: @vib3coded
+Original post: https://x.com/vib3coded/status/2119876781700505627
+Prompt & live remake: https://workskill.tools/ai-videos/fable5-2/vib3coded-505627
+
+Make &quot;Daybreak Switch&quot;, No. 062 in a series of web material studies: a night-to-morning toggle in its own original style, as a single self-contained page (no libraries; raw WebGL2 + Web Audio + a 2D pixel buffer). Editorial layout: a small &quot;Material Studies / No. 062 · WebGL + Web Audio&quot; kicker, an italic serif title &quot;Daybreak Switch.&quot;, a one-line caption; the switch centred and large; below it readouts (Clock, Light, Music), a hint line and a &quot;Sound on/off&quot; button. The whole page&#x27;s colours (background, text, lines) follow the switch from a dark dusk-indigo at night to a pale lavender-grey by day. Works at phone width.
+THE SWITCH
+- A pill-shaped switch in a moulded bezel: white glossy plastic by day, graphite by night. A soft drop shadow falls on the page and fades to nothing before the canvas edge, with a slight inner shadow along the top of the track.
+- Inside, a 176×50 pixel-art room, redrawn every frame on the CPU and shown with nearest sampling, never smoothed. Whole device pixels per scene pixel where there is room.
+- The knob is a vertical capsule of clear jelly glass, a little taller than the track, drawn in one full-canvas WebGL2 fragment shader:
+- it magnifies (~1.28×) and bends the pixels under it;
+- it splits R/G/B at its rim, with a darker refraction band, a bright edge and a Fresnel tint;
+- two highlights: a long soft streak at the upper left and a small dot at the lower right;
+- light focused toward its foot, and a soft shadow on the room.
+- The knob lags the finger on a spring, stretches horizontally with speed (squashing vertically to keep its volume), and wobbles on a damped spring fed by its acceleration.
+- Inside the knob the room is always shown fully lit: the glass carries the morning.
+- Controls: drag the knob or drag anywhere on the track; tap to toggle to the other end (it travels there on its spring); arrow keys, Home/End, Space/Enter; role=&quot;slider&quot; with aria values.
+THE ROOM (original, cosy palette)
+Built from filled shapes stamped with an automatic 1-px outline and a light top / dark bottom, so every object reads as a pixel sprite:
+- butter-yellow diamond wallpaper, teal wainscot, plank floor, a coral/cream/teal striped rug;
+- a big window with curtains over a town of roofs;
+- a shelf of coloured jelly jars and books, a potted plant;
+- a brass floor lamp with a mint shade;
+- a red boombox on a wooden cabinet, a framed picture of a little jelly shark, a round wall clock, a blue panelled door;
+- a string of coloured bulbs sagging across the ceiling;
+- a purple pet bed under the window.
+LIGHT AND THE MORNING
+- The knob drags the dawn across the room: left of it is day, right of it still night (indigo ambient). The edge dissolves in a 4×4 Bayer dither, with a warm dawn band just behind the knob.
+- The window sky runs from night (navy, twinkling stars, a crescent moon, lit town windows) through dawn (violet to peach, the sun coming up) to day (blue, sun high, clouds drifting).
+- Moonlight shafts through the window at night, warm sun shafts by day.
+- The lamp clicks on early and casts a banded warm pool.
+- Each ceiling bulb lights as the knob passes it, with a coloured dithered glow.
+- Disco spots sweep the room at the party.
+- The wall clock runs from 02:00 to 10:00.
+THE STORY, BY POSITION
+- An orange tabby cat:
+- asleep, curled in its bed, breathing, with z&#x27;s rising;
+- awake, lying with its head up and blinking;
+- sitting up;
+- standing and walking out onto the rug;
+- at the end dancing on its hind legs to the beat, in sunglasses, with pink ghost trails.
+- The plant sways and the boombox speakers thump with the beat; music notes float up from the boombox.
+- A disco ball comes down from the ceiling; confetti sparkles fall.
+- Glowing crescent echoes (coral to pink) trail behind the moving knob.
+- Near the end (from about 08:24 on the clock) a puppy waits outside: warm light shows under the door with the shadows of its shifting paws, and it knocks. On each knock the door jolts 2 px, arcs of sound spring off it, and a &quot;!&quot; pops up over the cat; the knocking repeats every ~2.8 s until it&#x27;s let in. At the very end the door swings open on a warm orange hallway and a white puppy with brown ears comes in, bobbing to the beat.
+SOUND — all synthesised live with Web Audio, original music
+- 100 BPM, a four-bar loop in F (Fmaj7 · Am7 · Dm7 · B♭maj7), on one lookahead-scheduled clock with a little swing.
+- Layers fade in by the knob&#x27;s position:
+0. Night: crickets (AM-chirped sine trains) and soft wind.
+1. A music box arpeggiating the chords (bell partials, short room reverb).
+2. A lo-fi beat (kick, noise-and-tone snare, hats) and a round bass.
+3. Warm detuned pads and a square-wave tune with vibrato.
+4. The party: four on the floor, claps, open hats, sub bass, the rest of the mix pumping under the kick.
+- The music sits behind a low-pass that opens with the dawn, and ~5 dB under the switch&#x27;s own sounds.
+- Switch sounds:
+- a glass tink plus a jelly blop when grabbed, a plop when released;
+- a band-passed noise rub following the drag speed;
+- a pentatonic pluck for every bulb lit (a glissando when you sweep across), softer and lower when one goes out;
+- the lamp&#x27;s double click and a cat&#x27;s &quot;mrrp&quot; (formant-filtered saw) when it wakes;
+- a riser and crash into the party, and a record-brake when you drag back out of the beat;
+- the puppy&#x27;s yip when it comes in.
+- The knock, like a real heavy door knock: three hits 0.25 s apart, panned toward the door. Each hit is a knuckle click (band-passed noise) over a deep thump that sags from ~98 to ~60 Hz over a quarter second, with quicker overtones (190→128 Hz, 410 Hz) and soft saturation so small speakers hear it. The music ducks to ~45% under each hit, and the knocks peak at 3–4× the music&#x27;s level.
+- Audio starts on the first touch; a Sound on/off button.
+- Readouts: Clock (02:00–10:00), Light (Night / First light / Sunrise / Morning / Party), Music (Crickets / Music box / Beat / Band / Party).

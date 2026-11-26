@@ -1,0 +1,14 @@
+# Claude与raea打造的温馨钓鱼游戏
+Author: @neviannn
+Original post: https://x.com/neviannn/status/2125672150229213643
+Prompt & live remake: https://workskill.tools/ai-videos/opus-5-5/neviannn-mwwxza5j
+
+here's how to build a cozy fishing game in one shot...
+
+a little boat drifting over clear shallow water, line already in
+
+setup:
+
+→ Claude writes the game logic, all in TypeScript
+→ raea handles the workflow that ties the scene together
+→ the browser renders the water, rocks https://t.co/vP4RPnDb1h

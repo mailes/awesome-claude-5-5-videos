@@ -1,0 +1,9 @@
+# Inside a TPU chip, layer by layer
+Author: @SPAC89
+Original post: https://x.com/SPAC89/status/2119888738595770843
+Prompt & live remake: https://workskill.tools/ai-videos/fable5-2/spac89-770843
+
+Fable 5.2 is the new AGI! 🤯
+I just tested it on my Google TPU benchmark and I still can&#x27;t believe how good it is
+to give you an idea, this should&#x27;ve taken hours, but Fable 5.2 finished it perfectly in under an hour. I haven&#x27;t seen any other model come close to this level of quality
+I seriously can&#x27;t believe how good this model is!

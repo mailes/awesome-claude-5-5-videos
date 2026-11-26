@@ -1,0 +1,7 @@
+# A course trailer made in 10 minutes
+Author: @midudev
+Original post: https://x.com/midudev/status/2119876297304203273
+Prompt & live remake: https://workskill.tools/ai-videos/fable5-2/midudev-203273
+
+El prompt:  Crea un trailer en video animado para compartir en redes sociales de este proyecto. Quiero que lo vendas de forma espectacular, que tenga sonido y animaciones brutales. Usa hyperframes.
+Esfuerzo medio.

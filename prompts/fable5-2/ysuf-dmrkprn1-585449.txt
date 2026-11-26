@@ -1,0 +1,8 @@
+# A film about its own launch, in one HTML file
+Author: @ysuf_dmrkprn1
+Original post: https://x.com/ysuf_dmrkprn1/status/2119902151581585449
+Prompt & live remake: https://workskill.tools/ai-videos/fable5-2/ysuf-dmrkprn1-585449
+
+I asked Claude Fable 5.2 to make a film about its own launch.
+Every frame comes from one HTML file it wrote, moving 16,384 particles. The visuals took one message and one fix on the black hole. I didn&#x27;t edit the code.
+Numbers are Anthropic&#x27;s. Music is ElevenLabs.

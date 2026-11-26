@@ -1,0 +1,11 @@
+# An 83-second anime film made of code
+Author: @noisyb0y1
+Original post: https://x.com/noisyb0y1/status/2119900528197218472
+Prompt & live remake: https://workskill.tools/ai-videos/fable5-2/noisyb0y1-218472
+
+this is f*cking crazy, Fable 5.2 made me an 83-second anime film and not a single frame is a picture
+it is 100% code: 1,992 frames rendered by three.js, no image model touched any of it
+8 agent teams worked in parallel, 39 shots, clouds, storm, sunset, stars, all of it drawn by math
+people are already pulling $2,000 a week making these to order, and the studios are the ones buying
+a studio charges $40k and 6 weeks for 83 seconds. this was one prompt and 15 minutes of generation
+save it, your first $2,000 clip starts with this code ↓

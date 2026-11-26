@@ -1,0 +1,7 @@
+# Porting a path tracer to WebGPU
+Author: @aidanshandle
+Original post: https://x.com/aidanshandle/status/2119879273196761464
+Prompt & live remake: https://workskill.tools/ai-videos/fable5-2/aidanshandle-761464
+
+Fable 5.2 ported ~28,000 lines of a path tracer to WebGPU for me.
+The coolest thing is, it didn&#x27;t edit the code. Instead, it wrote me a custom compiler.

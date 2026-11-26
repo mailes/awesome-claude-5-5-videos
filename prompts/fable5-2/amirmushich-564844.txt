@@ -1,0 +1,8 @@
+# A synth keyboard film with custom sound design
+Author: @AmirMushich
+Original post: https://x.com/AmirMushich/status/2119903338078564844
+Prompt & live remake: https://workskill.tools/ai-videos/fable5-2/amirmushich-564844
+
+Claude Fable 5.2 - time to test it with Blender + Reaper?
+not a fan of the melody here, but the sound design is put very well  - I recorded most sounds on my iPhone then gave them to Claude to use
+Now testing it on some bigger ideas - follow for more

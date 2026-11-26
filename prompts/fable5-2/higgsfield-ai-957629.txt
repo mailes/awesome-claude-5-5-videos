@@ -1,0 +1,8 @@
+# A formant synthesizer that makes code talk
+Author: @higgsfield_ai
+Original post: https://x.com/higgsfield_ai/status/2119906332077957629
+Prompt & live remake: https://workskill.tools/ai-videos/fable5-2/higgsfield-ai-957629
+
+Fable 5.2 made code talk.
+It wrote a formant synthesizer from scratch. Watch the vocal tract move with each sound.
+Made with Higgsfield.

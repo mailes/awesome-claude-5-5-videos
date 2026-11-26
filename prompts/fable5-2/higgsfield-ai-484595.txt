@@ -1,0 +1,11 @@
+# A rainy Tokyo alley made without a video model
+Author: @higgsfield_ai
+Original post: https://x.com/higgsfield_ai/status/2119905141822484595
+Prompt & live remake: https://workskill.tools/ai-videos/fable5-2/higgsfield-ai-484595
+
+This was made without a video model.
+Claude Fable 5.2 built a rainy Tokyo alley in code:
+&gt; Rain, puddles and neon reflections
+&gt; A street mirror with a working reflection
+&gt; Japanese signs you can read
+Try Fable 5.2 now with Higgsfield MCP.

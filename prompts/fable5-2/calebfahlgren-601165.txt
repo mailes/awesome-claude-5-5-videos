@@ -1,0 +1,7 @@
+# A detailed 1950s house explored in first person
+Author: @calebfahlgren
+Original post: https://x.com/calebfahlgren/status/2120680918914601165
+Prompt & live remake: https://workskill.tools/ai-videos/fable5-2/calebfahlgren-601165
+
+&quot;i want you to build a triple AAA level mini house like the one in call of duty nuketown, like that two story house, incredible detail, can run in threejs fps. send me screenshots as you build it and use subagents ot critique. this should be incredible.
+use hf jobs for gpu for rendering&quot;

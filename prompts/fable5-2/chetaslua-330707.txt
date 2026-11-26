@@ -1,0 +1,6 @@
+# Two dragons clash above a mountain valley
+Author: @chetaslua
+Original post: https://x.com/chetaslua/status/2121176151234330707
+Prompt & live remake: https://workskill.tools/ai-videos/fable5-2/chetaslua-330707
+
+Fable 5.2 can achieve this with @threejs &lt; no external assets at all&gt;

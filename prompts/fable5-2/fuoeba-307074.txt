@@ -1,0 +1,17 @@
+# A ray tracer written from scratch, no 3D software
+Author: @fuoeba
+Original post: https://x.com/fuoeba/status/2119906486017307074
+Prompt & live remake: https://workskill.tools/ai-videos/fable5-2/fuoeba-307074
+
+AI驚き屋やっとくか。知らんけど、これはOpusでも出来るんでは…？↓
+Claude Fable 5.2 に「3Dソフトを使わずに3D映像を作って」と頼んでみた。
+Blender なし。Unreal なし。ライブラリもなし。
+光の計算をするレンダラーごと、ゼロから書いてきた。意味がわからない。
+動画でやってること👇
+・光の跳ね返りを1本ずつ追いかける「パストレーシング」を自作
+・ガラスの屈折、金属の映り込み、床の反射
+・やわらかい影、ピントのボケ、動きのブレ
+・ぜんぶ「それっぽく見せる工夫」じゃなく、光の計算で出してる
+冒頭のザラザラが澄んでいくところは、1画素あたりの光の本数を1本から増やしていってる様子。本編は1画素384本、RTX 4090 で1コマ約0.3秒。
+音楽と効果音もコードで合成。素材ゼロ。
+（動画ファイルにまとめる所だけ ffmpeg を使ってます）

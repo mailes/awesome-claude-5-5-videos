@@ -28,6 +28,72 @@
  ],
  "cases": [
   {
+   "slug": "neviannn-mwwxza5j",
+   "authorHandle": "neviannn",
+   "authorUrl": "https://x.com/neviannn",
+   "postUrl": "https://x.com/neviannn/status/2125672150229213643",
+   "prompt": null,
+   "title": "Cozy browser fishing game built with Claude and raea",
+   "titleZh": "Claude与raea打造的温馨钓鱼游戏",
+   "postText": "here's how to build a cozy fishing game in one shot...\r\n\r\na little boat drifting over clear shallow water, line already in\r\n\r\nsetup:\r\n\r\n→ Claude writes the game logic, all in TypeScript\r\n→ raea handles the workflow that ties the scene together\r\n→ the browser renders the water, rocks https://t.co/vP4RPnDb1h",
+   "postedAt": null,
+   "category": "interactive",
+   "techTags": [
+    "fishing-game",
+    "browser-game",
+    "typescript",
+    "ai-generated"
+   ],
+   "width": 1920,
+   "height": 1080,
+   "durationSeconds": 29,
+   "hasPreview": true
+  },
+  {
+   "slug": "seeconvm-mvz8a04s",
+   "authorHandle": "seeconvm",
+   "authorUrl": "https://x.com/seeconvm",
+   "postUrl": "https://x.com/seeconvm/status/2117225363713728868",
+   "prompt": null,
+   "title": "Opus 5.5 PDF-to-motion workflow guide",
+   "titleZh": "Opus 5.5 PDF 动效工作流指南",
+   "postText": "Opus 5.5 is the motion hack nobody uses yet\r\n\r\nthat’s about to change…\r\n\r\nFeed the PDF below to Opus 5.5 before everyone else does.\r\n\r\nThen save the guide below, you’ll be ahead of the crowd. https://t.co/XAlhcbPaOc",
+   "postedAt": null,
+   "category": "motion",
+   "techTags": [
+    "motion",
+    "workflow",
+    "pdf",
+    "tutorial"
+   ],
+   "width": 1920,
+   "height": 1080,
+   "durationSeconds": 15,
+   "hasPreview": true
+  },
+  {
+   "slug": "ab-workss-mvkziw7y",
+   "authorHandle": "ab_workss",
+   "authorUrl": "https://x.com/ab_workss",
+   "postUrl": "https://x.com/ab_workss/status/2113306991481475114",
+   "prompt": null,
+   "title": "Pulseit brand trailer with bold motion design",
+   "titleZh": "Pulseit 品牌预告片动态设计",
+   "postText": "First @pulseitfun came to us for branding. Things escalated a little after that. \r\n\r\nA few shots from their trailer. 👀 https://t.co/eour2pEpoK",
+   "postedAt": null,
+   "category": "promo",
+   "techTags": [
+    "brand-trailer",
+    "motion-design",
+    "branding",
+    "promo"
+   ],
+   "width": 1920,
+   "height": 1080,
+   "durationSeconds": 4,
+   "hasPreview": true
+  },
+  {
    "slug": "fishaudio-mvg1izvv",
    "authorHandle": "FishAudio",
    "authorUrl": "https://x.com/FishAudio",

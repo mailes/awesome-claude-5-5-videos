@@ -1,0 +1,8 @@
+# A deep-dive volume slider with an ocean inside
+Author: @Elizaveta_ai
+Original post: https://x.com/Elizaveta_ai/status/2119907947132125485
+Prompt & live remake: https://workskill.tools/ai-videos/fable5-2/elizaveta-ai-125485
+
+Anthropic just dropped Fable 5.2 + Mythos 5.2.
+Tested Fable 5.2 and it is wild
+It built this addictive volume slider in less than 10 minutes

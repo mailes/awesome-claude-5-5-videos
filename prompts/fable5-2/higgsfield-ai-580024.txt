@@ -1,0 +1,8 @@
+# Lip-synced speech timed frame by frame
+Author: @higgsfield_ai
+Original post: https://x.com/higgsfield_ai/status/2119909938969580024
+Prompt & live remake: https://workskill.tools/ai-videos/fable5-2/higgsfield-ai-580024
+
+We asked Fable 5.2 to put words in her mouth. Precisely.
+It tracked the lips frame by frame and timed each sound to match.
+Made with Higgsfield.

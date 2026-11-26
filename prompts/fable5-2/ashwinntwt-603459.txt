@@ -1,0 +1,7 @@
+# A GTA-inspired driving simulator
+Author: @ashwinntwt
+Original post: https://x.com/ashwinntwt/status/2119890312382603459
+Prompt & live remake: https://workskill.tools/ai-videos/fable5-2/ashwinntwt-603459
+
+Single prompt to Fable 5.2 to create a car simulator based on GTA6
+@theo hows the fishslop going?

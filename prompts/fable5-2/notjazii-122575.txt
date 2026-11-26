@@ -1,0 +1,11 @@
+# A pirate ship sailing across the ocean
+Author: @notjazii
+Original post: https://x.com/notjazii/status/2119905661505122575
+Prompt & live remake: https://workskill.tools/ai-videos/fable5-2/notjazii-122575
+
+fable 5.2: 3d pirate ship sailing across ocean
+this has to be the craziest output i’ve seen for this prompt. this was one shot and model cooked harder
+&gt; took about 1 hour 30 mins
+&gt; used about 35M tokens worth ~$34.4
+you can test it here:
+i am really loving model so far. stuff that opus couldn’t do, fable is just one shotting at medium or high reasoning

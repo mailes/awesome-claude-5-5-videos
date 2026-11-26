@@ -1,0 +1,8 @@
+# A day-and-night platformer
+Author: @OzanTRAI
+Original post: https://x.com/OzanTRAI/status/2119893945895231568
+Prompt & live remake: https://workskill.tools/ai-videos/fable5-2/ozantrai-231568
+
+Claude Fable 5.2 cooked. I gave it my platformer test and it&#x27;s honestly the most creative and beautiful result I&#x27;ve seen 🤯
+&quot;PIRIL: Day &amp; Night&quot;, a platformer where you flip between day and night to change the world itself, with 4 levels from sunrise to dawn. One prompt, zero manual fixes.
+Which model should I put through this test next?

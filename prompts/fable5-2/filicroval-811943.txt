@@ -1,0 +1,7 @@
+# A voxel island with a cycling pelican
+Author: @filicroval
+Original post: https://x.com/filicroval/status/2119896439010811943
+Prompt & live remake: https://workskill.tools/ai-videos/fable5-2/filicroval-811943
+
+holy, fable 5.2 is very good AND token efficient!
+it used 30% less tokens as Opus 5.5 on the same task with a better output
